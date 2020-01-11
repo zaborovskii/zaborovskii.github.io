@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Классификации | Academic</title>
+    <link>/categories/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <atom:link href="/categories/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>Классификации</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 03 Jan 2020 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <title>Классификации</title>
+      <link>/categories/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Оценка общего состояния больного с использованием шкалы ECOG</title>
+      <link>/post/ecog-scale/</link>
+      <pubDate>Fri, 03 Jan 2020 12:00:00 +0000</pubDate>
+      <guid>/post/ecog-scale/</guid>
+      <description>&lt;p&gt;Для проведения клинических исследований различных методов лечения злокачественных новообразований, требуется использование стандартных критериев для измерения того, как болезнь влияет на повседневную деятельность пациента. Одним из таких инструментов является шкала ECOG. Она описывает уровень функционального состояния пациента в плане способности заботиться о себе, повседневной деятельности и физической активности (ходьба, работа и т. Д.).&lt;/p&gt;
+&lt;p&gt;Исследователи во всем мире учитывают статус ECOG при планировании исследований для изучения нового метода лечения. Эта шкала позволяет воспроизводить результаты исследований.&lt;/p&gt;
+&lt;p&gt;Шкала была разработана Eastern Cooperative Oncology Group (ECOG), которая сейчас является частью исследовательской группы по исследованию рака ECOG-ACRIN. Ключевые элементы опубликовали &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0021968160901375&#34;&gt;Charles Zubrod с соавторами в 1960 году&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;шкала-ecog&#34;&gt;Шкала ECOG&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Больной полностью активен, способен выполнять все, как и до заболевания (90-100 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Больной неспособен выполнять тяжелую, но может выполнять легкую или сидячую работу (например, легкую домашнюю или канцелярскую работу, 70-80 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Больной лечится амбулаторно, способен к самообслуживанию, но не может выполнять работу.  Более 50% времени бодрствования проводит активно в вертикальном положении (50-60 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Больной способен лишь к ограниченному самообслуживанию, проводит в кресле или постели более 50% времени бодрствования (30-40 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Инвалид, совершенно не способен к самообслуживанию, прикован к креслу или постели (10-20 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Смерть&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

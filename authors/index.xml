@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 03 Jan 2020 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 03 Jan 2020 12:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Я работаю врачом-ортопедом в области хирургии позвоночника. Имею ученую степень &lt;a href=&#34;https://search.rsl.ru/ru/record/01008710640&#34;&gt;кандидата медицинских наук&lt;/a&gt; по травматологии-ортопедии и онкологии. В клинической практике занимаюсь лечением остеохондроза, опухолей и деформаций позвоночника.&lt;/p&gt;
+&lt;p&gt;В настоящее время я изучаю вопросы, связанные с опухолевыми поражениями позвоночника, благодаря своей работе в качестве научного сотрудника в &lt;a href=&#34;http://rniito.org/&#34;&gt;Институте Вредена&lt;/a&gt; в отделении Нейроортопедии c костной онкологией.&lt;/p&gt;
+&lt;p&gt;Я окончил &lt;a href=&#34;https://www.vmeda.org/&#34;&gt;Военно-медицинскую академию&lt;/a&gt; в 2012 году. В 2012 - 2014 годах обучался в ординатуре на базе Института Вредена.&lt;/p&gt;
+&lt;p&gt;В данный момент работаю на &lt;a href=&#34;18department.html&#34;&gt;18 отделении Института Вредена&lt;/a&gt; под руководством &lt;a href=&#34;http://ptashnikov.com/&#34;&gt;профессора Пташникова Д.А.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
