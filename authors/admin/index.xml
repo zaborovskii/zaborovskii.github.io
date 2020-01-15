@@ -5,12 +5,64 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Никита Заборовский</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 03 Jan 2020 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 15 Jan 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>Никита Заборовский</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Оценка общего состояния больного с использованием индекса Карновского</title>
+      <link>/post/karnofsky-status/</link>
+      <pubDate>Wed, 15 Jan 2020 12:00:00 +0000</pubDate>
+      <guid>/post/karnofsky-status/</guid>
+      <description>&lt;p&gt;Шкала Karnofsky (Индекс Карновского) была разработана двумя американскими врачами в 1940-х годах (David Kamofsky и Joseph Burchenal) в качестве попытки измерить результаты лечения рака (Karnofsky D.A. The clinical evaluation of chemotherapeutic agents in cancer //Evaluation of chemotherapeutic agents. – 1949.)&lt;/p&gt;
+&lt;h2 id=&#34;шкала-karnofsky&#34;&gt;Шкала Karnofsky&lt;/h2&gt;
+&lt;p&gt;Нормальная физическая активность, больной не нуждается в специальном уходе&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;100%	Состояние нормальное, нет жалоб и симптомов заболевания&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;90% Нормальная активность сохранена, но имеются незначительные симптомы заболевания&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;80% Нормальная активность возможна при дополнительных усилиях, при умеренно выраженных симптомах заболевания&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ограничение нормальной активности при сохранении полной независимости больного&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;70%	Больной обслуживает себя самостоятельно, но не способен к нормальной деятельности или работе&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;60%	Больной иногда нуждается в помощи, но в основном обслуживает себя сам&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;50%	Больному часто требуется помощь и медицинское обслуживание&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Больной не может обслуживать себя самостоятельно, необходим уход или госпитализация&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;40%	Большую часть времени больной проводит в постели, необходим специальный уход и посторонняя помощь&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;30%	Больной прикован к постели, показана госпитализация, хотя терминальное состояние не обязательно&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;20%	Сильные проявления болезни, необходима госпитализация и поддерживающая терапия&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10%	Умирающий больной, быстрое прогрессиро-вание заболевания&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;0%	Смерть&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Оценка общего состояния больного с использованием шкалы ECOG</title>
