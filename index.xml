@@ -5,12 +5,100 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Никита Заборовский</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>Никита Заборовский</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Оценка мышечной силы</title>
+      <link>/post/muscular-strenght/muscular-strenght/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/muscular-strenght/muscular-strenght/</guid>
+      <description>
+
+
+&lt;p&gt;Оценка мышечной силы может помочь локализовать участок поражения в определенном месте позвоночника или нервной системы. Необходимо испытать силу каждой группы мышц с двух сторон для сравнения.&lt;/p&gt;
+&lt;div id=&#34;шкала-оценки-мышечной-силы-mrc-medical-research-council-scale-1981&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала оценки мышечной силы MRC (Medical Research Council Scale, 1981)&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;8%&#34; /&gt;
+&lt;col width=&#34;91%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Полный паралич&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Пальпируемые или видимые сокращения мышц&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме без преодоления силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и небольшого внешнего противодействия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и максимального внешнего противодействия (нормальные)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Индекс Карновского</title>
+      <link>/post/karnofsky-status/karnofsky-status/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/karnofsky-status/karnofsky-status/</guid>
+      <description>
+
+
+&lt;p&gt;Шкала Karnofsky (Индекс Карновского) была разработана двумя американскими врачами в 1940-х годах (David Kamofsky и Joseph Burchenal) в качестве попытки измерить результаты лечения рака (Karnofsky D.A. The clinical evaluation of chemotherapeutic agents in cancer //Evaluation of chemotherapeutic agents. – 1949.)&lt;/p&gt;
+&lt;div id=&#34;шкала-karnofsky&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала Karnofsky&lt;/h2&gt;
+&lt;p&gt;Нормальная физическая активность, больной не нуждается в специальном уходе&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;100% Состояние нормальное, нет жалоб и симптомов заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;90% Нормальная активность сохранена, но имеются незначительные симптомы заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;80% Нормальная активность возможна при дополнительных усилиях, при умеренно выраженных симптомах заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ограничение нормальной активности при сохранении полной независимости больного&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;70% Больной обслуживает себя самостоятельно, но не способен к нормальной деятельности или работе&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;60% Больной иногда нуждается в помощи, но в основном обслуживает себя сам&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;50% Больному часто требуется помощь и медицинское обслуживание&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Больной не может обслуживать себя самостоятельно, необходим уход или госпитализация&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;40% Большую часть времени больной проводит в постели, необходим специальный уход и посторонняя помощь&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;30% Больной прикован к постели, показана госпитализация, хотя терминальное состояние не обязательно&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;20% Сильные проявления болезни, необходима госпитализация и поддерживающая терапия&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;10% Умирающий больной, быстрое прогрессиро-вание заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;0% Смерть&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Классификация Aebi</title>
@@ -51,9 +139,9 @@
     
     <item>
       <title>Классификация Modic</title>
-      <link>/post/modic-changes/</link>
+      <link>/post/modic-changes/modic-changes/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/modic-changes/</guid>
+      <guid>/post/modic-changes/modic-changes/</guid>
       <description>
 
 
@@ -362,58 +450,6 @@
 &lt;p&gt;Наиболее важным аспектом предоперационного планирования является постановка диагноза. Как и в случае с инвестициями в недвижимость, где акцент делается на &amp;ldquo;Местоположение, Местоположение, Местоположение&amp;rdquo;, в хирургии позвоночника акцент ставится на &amp;ldquo;Диагностика, Диагностика, Диагностика&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Поэтому подчеркивается, что прежде чем рассматривать любое хирургическое вмешательство на позвоночнике, необходимо провести тщательную диагностическую работу для определения любых и ВСЕХ причин болей в спине, которые необходимо устранить.&lt;/p&gt;
 &lt;p&gt;Это является одной из причин, по которой необходимо провести предоперационное обсуждение и разработать программу обучения пациента. Этот процесс даст пациенту полное понимание того, что известно и неизвестно в каждом отдельном случае, и какие ожидания могут быть в соответствии со всеми вариантами лечения.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Оценка общего состояния больного с использованием индекса Карновского</title>
-      <link>/post/karnofsky-status/</link>
-      <pubDate>Wed, 15 Jan 2020 12:00:00 +0000</pubDate>
-      <guid>/post/karnofsky-status/</guid>
-      <description>&lt;p&gt;Шкала Karnofsky (Индекс Карновского) была разработана двумя американскими врачами в 1940-х годах (David Kamofsky и Joseph Burchenal) в качестве попытки измерить результаты лечения рака (Karnofsky D.A. The clinical evaluation of chemotherapeutic agents in cancer //Evaluation of chemotherapeutic agents. – 1949.)&lt;/p&gt;
-&lt;h2 id=&#34;шкала-karnofsky&#34;&gt;Шкала Karnofsky&lt;/h2&gt;
-&lt;p&gt;Нормальная физическая активность, больной не нуждается в специальном уходе&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;100%	Состояние нормальное, нет жалоб и симптомов заболевания&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;90% Нормальная активность сохранена, но имеются незначительные симптомы заболевания&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;80% Нормальная активность возможна при дополнительных усилиях, при умеренно выраженных симптомах заболевания&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ограничение нормальной активности при сохранении полной независимости больного&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;70%	Больной обслуживает себя самостоятельно, но не способен к нормальной деятельности или работе&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;60%	Больной иногда нуждается в помощи, но в основном обслуживает себя сам&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;50%	Больному часто требуется помощь и медицинское обслуживание&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Больной не может обслуживать себя самостоятельно, необходим уход или госпитализация&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;40%	Большую часть времени больной проводит в постели, необходим специальный уход и посторонняя помощь&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;30%	Больной прикован к постели, показана госпитализация, хотя терминальное состояние не обязательно&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;20%	Сильные проявления болезни, необходима госпитализация и поддерживающая терапия&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;10%	Умирающий больной, быстрое прогрессиро-вание заболевания&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;0%	Смерть&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

@@ -5,12 +5,65 @@
     <link>/tags/%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <atom:link href="/tags/%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>дегенеративно-дистрофическое заболевание</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>дегенеративно-дистрофическое заболевание</title>
       <link>/tags/%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
     </image>
+    
+    <item>
+      <title>Оценка мышечной силы</title>
+      <link>/post/muscular-strenght/muscular-strenght/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/muscular-strenght/muscular-strenght/</guid>
+      <description>
+
+
+&lt;p&gt;Оценка мышечной силы может помочь локализовать участок поражения в определенном месте позвоночника или нервной системы. Необходимо испытать силу каждой группы мышц с двух сторон для сравнения.&lt;/p&gt;
+&lt;div id=&#34;шкала-оценки-мышечной-силы-mrc-medical-research-council-scale-1981&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала оценки мышечной силы MRC (Medical Research Council Scale, 1981)&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;8%&#34; /&gt;
+&lt;col width=&#34;91%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Полный паралич&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Пальпируемые или видимые сокращения мышц&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме без преодоления силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и небольшого внешнего противодействия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и максимального внешнего противодействия (нормальные)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Классификация Aebi</title>
@@ -51,9 +104,9 @@
     
     <item>
       <title>Классификация Modic</title>
-      <link>/post/modic-changes/</link>
+      <link>/post/modic-changes/modic-changes/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/modic-changes/</guid>
+      <guid>/post/modic-changes/modic-changes/</guid>
       <description>
 
 
