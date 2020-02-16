@@ -4,26 +4,56 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
+    <loc>/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/successful-spine-surgery.successful-spine-surgery/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BC%D0%B5%D1%82%D0%B0%D1%81%D1%82%D0%B0%D0%B7%D1%8B/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BE%D0%BF%D1%83%D1%85%D0%BE%D0%BB%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/</loc>
+    <lastmod>2020-02-17T15:35:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</loc>
     <lastmod>2020-02-16T15:11:32+03:00</lastmod>
   </url>
   
@@ -33,27 +63,12 @@
   </url>
   
   <url>
-    <loc>/tags/%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/</loc>
     <lastmod>2020-02-16T15:11:32+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/%D0%BE%D0%BF%D1%83%D1%85%D0%BE%D0%BB%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</loc>
-    <lastmod>2020-02-16T15:11:32+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/karnofsky-status/karnofsky-status/</loc>
-    <lastmod>2020-02-15T15:16:13+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%D0%BC%D0%B5%D1%82%D0%B0%D1%81%D1%82%D0%B0%D0%B7%D1%8B/</loc>
     <lastmod>2020-02-15T15:16:13+03:00</lastmod>
   </url>
   
@@ -75,11 +90,6 @@
   <url>
     <loc>/post/modic-changes/modic-changes/</loc>
     <lastmod>2020-02-13T20:53:52+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</loc>
-    <lastmod>2020-02-09T13:41:15+03:00</lastmod>
   </url>
   
   <url>
@@ -154,11 +164,6 @@
   
   <url>
     <loc>/post/facet-joint-pain-after-spine-surgery/</loc>
-    <lastmod>2020-01-16T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/</loc>
     <lastmod>2020-01-16T12:00:00+00:00</lastmod>
   </url>
   
