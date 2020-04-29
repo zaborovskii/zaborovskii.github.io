@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>классификации | Никита Заборовский</title>
+    <link>/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <atom:link href="/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>классификации</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <title>классификации</title>
+      <link>/tags/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Классификации</title>
+      <link>/project/classifications/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/classifications/</guid>
+      <description>&lt;p&gt;В этом разделе находятся различные классификации и прогностические системы для помощи в работе.&lt;/p&gt;
+&lt;h3 id=&#34;онкология&#34;&gt;Онкология&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;classifications/WHO_bone_tumors_2013.html&#34;&gt;Классификация опухолей костей ВОЗ - 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zaborovskii.github.io/post/karnofsky-status/karnofsky-status/&#34;&gt;Индекс Карновского - оценка общего состояния больного&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zaborovskii.github.io/post/ecog-scale/&#34;&gt;Шкала ECOG - оценка функционального состояния больного&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;деформация&#34;&gt;Деформация&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zaborovskii.github.io/post/aebi-classification/aebi-classification/&#34;&gt;Классификация Aebi - этиология сколиоза у взрослых&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;травма&#34;&gt;Травма&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zaborovskii.github.io/post/muscular-strenght/muscular-strenght/&#34;&gt;Шкала оценки мышечной силы&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;дегенеративно-дистрофические-заболевания&#34;&gt;Дегенеративно-дистрофические заболевания&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zaborovskii.github.io/post/modic-changes/modic-changes/&#34;&gt;Классификация Modic - классификация дегенеративных изменений замыкательных пластинок тел позвонков&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
