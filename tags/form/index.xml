@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>form | Никита Заборовский</title>
+    <link>/tags/form/</link>
+      <atom:link href="/tags/form/index.xml" rel="self" type="application/rss+xml" />
+    <description>form</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <title>form</title>
+      <link>/tags/form/</link>
+    </image>
+    
+    <item>
+      <title>Опросники и формы</title>
+      <link>/project/patient-portal-and-forms/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/patient-portal-and-forms/</guid>
+      <description>
+
+
+&lt;p&gt;Помогите улучшить качество оказания медицинской помощи, ответив на данные вопросы.&lt;/p&gt;
+&lt;p&gt;Эти данные будут использоваться только в научных целях для обобщения результатов лечения.&lt;/p&gt;
+&lt;p&gt;Существует 3 версии опросников. Выберите версию в соответствии с вашим заболеванием.&lt;/p&gt;
+&lt;div id=&#34;опросники-для-пациентов&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;https://oprosnik18.blogspot.com/&#34;&gt;Опросники для пациентов&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;После оперативного лечения по поводу дегенеративно-дистрофического заболевания позвоночника (грыжа, остеохондроз, спондилолистез, спондилоартроз).&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSc9bBjlqWZ8-EfEVb8iAocLS5MSD1fIRfOnHkLYzjBXTKpgvQ/viewform&#34;&gt;Заполнить опросник 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;После оперативного лечения новообразования позвоночника (опухоль, метастазы)&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSc9bBjlqWZ8-EfEVb8iAocLS5MSD1fIRfOnHkLYzjBXTKpgvQ/viewform&#34;&gt;Заполнить опросник 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;После оперативного лечения деформации позвоночника (сколиоз, кифоз, болезнь Шейерман-Мау)&lt;br /&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScNKGEspmZFBMe0lJ6nW-XLWfiaP-vUG1NoHrqVuBj5A8KpPA/viewform&#34;&gt;Заполнить опросник 3&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
