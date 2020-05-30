@@ -3,17 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/home/about/</loc>
+  </url>
+  
+  <url>
     <loc>/en/authors/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/admin/"
-                />
   </url>
   
   <url>
@@ -42,6 +36,10 @@
                 hreflang="en"
                 href="/en/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/home/</loc>
   </url>
   
   <url>
