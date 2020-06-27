@@ -1,16 +1,336 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Никита Заборовский</title>
+    <title>Коллегам | Никита Заборовский</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language>
+    <description>Коллегам</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Коллегам</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Классификация SRS-Schwab (деформации позвоночника у взрослых)</title>
+      <link>/talk/srs-schwab-classification/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/srs-schwab-classification/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Классификация SRS-Schwab была разработана на основе совместной работы нескольких исследовательских групп. Восстановление сагиттального профиля позвоночного столба является основой хирургии позвоночника. Отклонение сагиттальной оси из C7 от S1 или глобальное смещение (SVA), наклон таза к вертикали (PT) и разница между тазовым углом и поясничным лордозом (PI-LL) являются основными рентгенологическими параметрами в этой области. Установлено, что эти параметры коррелируют с нарушением качества жизни и болевым синдромом пациентов. Они служат руководством для оценки состояния пациента и планирования хирургической операции.&lt;/p&gt;
+&lt;div id=&#34;фронтальная-деформация&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Фронтальная деформация&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Тип дуги&lt;/th&gt;
+&lt;th&gt;Критерии&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;T&lt;/td&gt;
+&lt;td&gt;только грудная дуга с поясничной дугой &amp;lt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;грудо-поясничная/только поясничная дуга с грудной дугой &amp;lt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;двойная дуга с Т и L дугой &amp;gt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;без значимой деформации (все дуги &amp;lt; 30 градусов)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;сагиттальные-модификаторы&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Сагиттальные модификаторы&lt;/h5&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;35%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
+&lt;col width=&#34;25%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Параметр&lt;/th&gt;
+&lt;th&gt;Степень 0&lt;/th&gt;
+&lt;th&gt;Степень +&lt;/th&gt;
+&lt;th&gt;Степень ++&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Разница между PI и LL&lt;/td&gt;
+&lt;td&gt;до 10 градусов&lt;/td&gt;
+&lt;td&gt;10-20 градусов&lt;/td&gt;
+&lt;td&gt;больше 20 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Глобальное смещение (SVA)&lt;/td&gt;
+&lt;td&gt;до 40 мм&lt;/td&gt;
+&lt;td&gt;40-95 мм&lt;/td&gt;
+&lt;td&gt;больше 95 мм&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Наклон таза к вертикали (PT)&lt;/td&gt;
+&lt;td&gt;до 20 градусов&lt;/td&gt;
+&lt;td&gt;20-30 градусов&lt;/td&gt;
+&lt;td&gt;больше 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://d1wqtxts1xzle7.cloudfront.net/39504377/Scoliosis_Research_Society-Schwab_Adult_20151028-15954-9q8czf.pdf?1446061534=&amp;amp;response-content-disposition=inline%3B+filename%3DSRS-Schwab_Adult_Spinal_Deformity_Classi.pdf&amp;amp;Expires=1593257023&amp;amp;Signature=UiWUTw9Ab1dbDMBp-3Moy6YBLowSYds2BZdjX~sIUuSPJPv4tukXNv3fiBJ7DnOKKS8MWme~faUl6q3ZzyLlweX30t~h4PdOVos2Z-Jxd3~nKCO34VupegKOA~zxXjmHFphssfOjh9lCXit33gdfqpjZG21e-IpjExySQ9ZMnTXIxSY6eghtUKIR~UNYeakMfHW3FEWDiLi9GLpB7VpTttlo1pw~Tb5QnCIAXvEsR7DhVQULRzdXHpYhvpBoCN~T9G7p~n110f0X5cz4qtIz-k5cVBcHxm9GKo5CX~EL9GYQDe-zIcT0E3T4jAsUcGpQQ7J11WO1Xngb1Li7o4Ihmw__&amp;amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA&#34;&gt;Scoliosis Research Society—Schwab Adult Spinal Deformity Classification: A Validation Study&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оценка мышечной силы</title>
+      <link>/talk/muscular-strenght/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/muscular-strenght/</guid>
+      <description>
+
+
+&lt;p&gt;Оценка мышечной силы может помочь локализовать участок поражения в определенном месте позвоночника или нервной системы. Необходимо испытать силу каждой группы мышц с двух сторон для сравнения.&lt;/p&gt;
+&lt;div id=&#34;шкала-оценки-мышечной-силы-mrc-medical-research-council-scale-1981&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала оценки мышечной силы MRC (Medical Research Council Scale, 1981)&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;8%&#34; /&gt;
+&lt;col width=&#34;91%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Полный паралич&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Пальпируемые или видимые сокращения мышц&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме без преодоления силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и небольшого внешнего противодействия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Активные движения в полном объеме с преодолением силы тяжести и максимального внешнего противодействия (нормальные)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Классификация Aebi (деформации позвоночника у взрослых)</title>
+      <link>/talk/aebi-classification/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/aebi-classification/</guid>
+      <description>
+
+
+&lt;div id=&#34;тип-1-первичный-дегенеративный-сколиоз-de-novo-form&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Тип 1: Первичный дегенеративный сколиоз (‘de novo’ form)&lt;/h3&gt;
+&lt;p&gt;На фоне дегенеративно-дистрофического заболевания позвоночника&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;тип-2-прогрессирующий-идиопатический-сколиоз-взрослых&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Тип 2: Прогрессирующий идиопатический сколиоз взрослых&lt;/h3&gt;
+&lt;p&gt;У пациента присутствовала деформация позвоночника ранее, но отсутствовали дегенеративно-дистрофические изменения&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2A: младше 25 лет&lt;/li&gt;
+&lt;li&gt;2B: старше 25 лет&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;тип-3-вторичный-сколиоз&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Тип 3: Вторичный сколиоз&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3A: Связанный с патологией опорно-двигательного аппарата (врожденная аномалия развития, перекос таза, укорочение нижней конечности)&lt;/li&gt;
+&lt;li&gt;3B: На фоне метаболических и других заболеваний (остеопороз, ревматоидный артрит)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Иногда бывает трудно определить, что именно было основной причиной возникновения деформации, после того, как она значительно прогрессировала. Асимметричная &lt;a href=&#34;https://zaborovskii.github.io/post/lumbar-degenerative-disc-disease/&#34;&gt;дегенерация&lt;/a&gt; приводит к увеличению асимметричной нагрузки и, следовательно, к прогрессии дегенерации и деформации. Прогрессия деформации поддерживается остеопорозом, особенно у женщин в постменопаузе. Разрушение &lt;a href=&#34;https://zaborovskii.github.io/post/anatomy-of-spine/&#34;&gt;фасеточных суставов, суставных капсул, дисков и связок&lt;/a&gt; может привести к моно- или мультисегментной нестабильности и к спинальному стенозу. Эти пациенты страдают преимущественно болями в спине, ногах и хромотой.&lt;/p&gt;
+&lt;p&gt;Диагностическая оценка включает статическую и динамическую визуализацию, МРТ, а также инвазивные диагностические процедуры, такие как дискограммы, фасеточные блокады, эпидуральные и корешковые блокады и тесты на иммобилизацию. Эти тесты могут коррелировать с клиническими и патоморфологическими результатами, а также могут предложить наименее инвазивное и наиболее рациональное лечение пациента. Затем лечение подбирается с учетом конкретной симптоматики пациента.&lt;/p&gt;
+&lt;p&gt;Хирургическое лечение состоит либо из процедур декомпрессии, коррекции, стабилизации и сращивания, либо из комбинации всех этих процедур. Хирургическая процедура, как правило, сложная и должна решать целый ряд специфических проблем, таких как возраст и общее состояние здоровья пациента, длительность процесса, состояние соседних сегментов, состояние пояснично-крестцового сочленения, остеопороз и, возможно, предшествующая операция с целью лечения сколиоза&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что эта операция требует больших усилий, уровень осложнений может считаться более высоким, чем при других ортопедических процедурах, таких как эндопротезирование тазобедренного сустава, в той же возрастной группе пациентов. В целом, можно ожидать удовлетворительного исхода при хорошо дифференцированных показаниях и правильно подобранных хирургических процедурах.&lt;/p&gt;
+&lt;p&gt;По мере того, как пациенты, страдающие серьезными клиническими проблемами в контексте сколиоза у взрослых, стареют, все большее значение могут приобретать &lt;a href=&#34;https://zaborovskii.github.io/post/facet-joint-injection/facet-joint-injection/&#34;&gt;минимально инвазивные процедуры&lt;/a&gt;, направленные на решение именно наиболее актуальной клинической проблемы, в основном игнорируя общую деформацию и дегенерацию позвоночника.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/16328223&#34;&gt;Aebi M. The adult scoliosis.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Классификация Modic</title>
+      <link>/talk/modic-changes/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/modic-changes/</guid>
+      <description>
+
+
+&lt;p&gt;Изменения по типу Modic представляют собой классификацию изменений МРТ-сигнала замыкательных пластинок тел позвонков. В 1988 году &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/3336678&#34;&gt;Майкл Модик описал изменения&lt;/a&gt; по типу асептического спондилита. Представленные изменения замыкательных пластинок и структуры костного мозга тесно связаны с &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1529943015015065&#34;&gt;типичным дегенеративным процессом поясничного отдела позвоночника&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Классификация изменений костного мозга тел позвонков, в прилежащих к МПД областях по Modic определялась следующим образом на сагиттальных Т1-взвешенных изображениях (Т1) и Т2-взвешенных изображениях (Т2):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;modic_1.png&#34; /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;5%&#34; /&gt;
+&lt;col width=&#34;94%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Тип&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Зоны низкой интенсивности сигнала на T1 и высокой интенсивности на T2 по сравнению с костным мозгом. Соответствует гиперваскуляризации фиброзной ткани, изменениям вследствие воспаления и отека;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Высокая интенсивность сигнала на Т1 и Т2. Соответствует жировой дегенерации костного мозга;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Низкая интенсивность сигнала на Т1 и Т2. Соответствует появлению реактивных склеротических изменений в губчатом веществе тел позвонков.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;modic_2.PNG&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Индекс Карновского</title>
+      <link>/talk/karnofsky-status/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/karnofsky-status/</guid>
+      <description>
+
+
+&lt;p&gt;Шкала Karnofsky (Индекс Карновского) была разработана двумя американскими врачами в 1940-х годах (David Kamofsky и Joseph Burchenal) в качестве попытки измерить результаты лечения рака (Karnofsky D.A. The clinical evaluation of chemotherapeutic agents in cancer //Evaluation of chemotherapeutic agents. – 1949.)&lt;/p&gt;
+&lt;div id=&#34;шкала-karnofsky&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала Karnofsky&lt;/h2&gt;
+&lt;p&gt;Нормальная физическая активность, больной не нуждается в специальном уходе&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;100% Состояние нормальное, нет жалоб и симптомов заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;90% Нормальная активность сохранена, но имеются незначительные симптомы заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;80% Нормальная активность возможна при дополнительных усилиях, при умеренно выраженных симптомах заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ограничение нормальной активности при сохранении полной независимости больного&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;70% Больной обслуживает себя самостоятельно, но не способен к нормальной деятельности или работе&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;60% Больной иногда нуждается в помощи, но в основном обслуживает себя сам&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;50% Больному часто требуется помощь и медицинское обслуживание&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Больной не может обслуживать себя самостоятельно, необходим уход или госпитализация&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;40% Большую часть времени больной проводит в постели, необходим специальный уход и посторонняя помощь&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;30% Больной прикован к постели, показана госпитализация, хотя терминальное состояние не обязательно&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;20% Сильные проявления болезни, необходима госпитализация и поддерживающая терапия&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;10% Умирающий больной, быстрое прогрессиро-вание заболевания&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;0% Смерть&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оценка общего состояния больного с использованием шкалы ECOG</title>
+      <link>/talk/ecog-scale/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/ecog-scale/</guid>
+      <description>
+
+
+&lt;p&gt;Для проведения клинических исследований различных методов лечения злокачественных новообразований, требуется использование стандартных критериев для измерения того, как болезнь влияет на повседневную деятельность пациента. Одним из таких инструментов является шкала ECOG. Она описывает уровень функционального состояния пациента в плане способности заботиться о себе, повседневной деятельности и физической активности (ходьба, работа и т. Д.).&lt;/p&gt;
+&lt;p&gt;Исследователи во всем мире учитывают статус ECOG при планировании исследований для изучения нового метода лечения. Эта шкала позволяет воспроизводить результаты исследований.&lt;/p&gt;
+&lt;p&gt;Шкала была разработана Eastern Cooperative Oncology Group (ECOG), которая сейчас является частью исследовательской группы по исследованию рака ECOG-ACRIN. Ключевые элементы опубликовали &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0021968160901375&#34;&gt;Charles Zubrod с соавторами в 1960 году&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;шкала-ecog&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала ECOG&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;8%&#34; /&gt;
+&lt;col width=&#34;91%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Больной полностью активен, способен выполнять все, как и до заболевания (90-100 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Больной неспособен выполнять тяжелую, но может выполнять легкую или сидячую работу (например, легкую домашнюю или канцелярскую работу, 70-80 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Больной лечится амбулаторно, способен к самообслуживанию, но не может выполнять работу. Более 50% времени бодрствования проводит активно в вертикальном положении (50-60 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Больной способен лишь к ограниченному самообслуживанию, проводит в кресле или постели более 50% времени бодрствования (30-40 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Инвалид, совершенно не способен к самообслуживанию, прикован к креслу или постели (10-20 баллов по шкале Карновского)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Смерть&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

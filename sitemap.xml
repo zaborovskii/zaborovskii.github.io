@@ -4,32 +4,47 @@
   
   <url>
     <loc>/tags/deformity/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/osteochondrosis/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/srs-schwab-classification/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/vreden-webinar-30-06-2020/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/scoliosis-faq/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/osteochondrosis/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,16 +208,6 @@
   </url>
   
   <url>
-    <loc>/tags/classification/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/classifications/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/4-ways-to-avoid-undergoing-back-surgery/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
@@ -223,17 +228,17 @@
   </url>
   
   <url>
-    <loc>/post/muscular-strenght/</loc>
+    <loc>/talk/muscular-strenght/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/aebi-classification/</loc>
+    <loc>/talk/aebi-classification/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/modic-changes/</loc>
+    <loc>/talk/modic-changes/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,12 +268,12 @@
   </url>
   
   <url>
-    <loc>/post/karnofsky-status/</loc>
+    <loc>/talk/karnofsky-status/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ecog-scale/</loc>
+    <loc>/talk/ecog-scale/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -308,10 +313,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

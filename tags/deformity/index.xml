@@ -5,12 +5,139 @@
     <link>/tags/deformity/</link>
       <atom:link href="/tags/deformity/index.xml" rel="self" type="application/rss+xml" />
     <description>deformity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>deformity</title>
       <link>/tags/deformity/</link>
     </image>
+    
+    <item>
+      <title>Классификация SRS-Schwab (деформации позвоночника у взрослых)</title>
+      <link>/talk/srs-schwab-classification/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/srs-schwab-classification/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Классификация SRS-Schwab была разработана на основе совместной работы нескольких исследовательских групп. Восстановление сагиттального профиля позвоночного столба является основой хирургии позвоночника. Отклонение сагиттальной оси из C7 от S1 или глобальное смещение (SVA), наклон таза к вертикали (PT) и разница между тазовым углом и поясничным лордозом (PI-LL) являются основными рентгенологическими параметрами в этой области. Установлено, что эти параметры коррелируют с нарушением качества жизни и болевым синдромом пациентов. Они служат руководством для оценки состояния пациента и планирования хирургической операции.&lt;/p&gt;
+&lt;div id=&#34;фронтальная-деформация&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Фронтальная деформация&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Тип дуги&lt;/th&gt;
+&lt;th&gt;Критерии&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;T&lt;/td&gt;
+&lt;td&gt;только грудная дуга с поясничной дугой &amp;lt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;грудо-поясничная/только поясничная дуга с грудной дугой &amp;lt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;двойная дуга с Т и L дугой &amp;gt; 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;без значимой деформации (все дуги &amp;lt; 30 градусов)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;сагиттальные-модификаторы&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Сагиттальные модификаторы&lt;/h5&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;35%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
+&lt;col width=&#34;25%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Параметр&lt;/th&gt;
+&lt;th&gt;Степень 0&lt;/th&gt;
+&lt;th&gt;Степень +&lt;/th&gt;
+&lt;th&gt;Степень ++&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Разница между PI и LL&lt;/td&gt;
+&lt;td&gt;до 10 градусов&lt;/td&gt;
+&lt;td&gt;10-20 градусов&lt;/td&gt;
+&lt;td&gt;больше 20 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Глобальное смещение (SVA)&lt;/td&gt;
+&lt;td&gt;до 40 мм&lt;/td&gt;
+&lt;td&gt;40-95 мм&lt;/td&gt;
+&lt;td&gt;больше 95 мм&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Наклон таза к вертикали (PT)&lt;/td&gt;
+&lt;td&gt;до 20 градусов&lt;/td&gt;
+&lt;td&gt;20-30 градусов&lt;/td&gt;
+&lt;td&gt;больше 30 градусов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://d1wqtxts1xzle7.cloudfront.net/39504377/Scoliosis_Research_Society-Schwab_Adult_20151028-15954-9q8czf.pdf?1446061534=&amp;amp;response-content-disposition=inline%3B+filename%3DSRS-Schwab_Adult_Spinal_Deformity_Classi.pdf&amp;amp;Expires=1593257023&amp;amp;Signature=UiWUTw9Ab1dbDMBp-3Moy6YBLowSYds2BZdjX~sIUuSPJPv4tukXNv3fiBJ7DnOKKS8MWme~faUl6q3ZzyLlweX30t~h4PdOVos2Z-Jxd3~nKCO34VupegKOA~zxXjmHFphssfOjh9lCXit33gdfqpjZG21e-IpjExySQ9ZMnTXIxSY6eghtUKIR~UNYeakMfHW3FEWDiLi9GLpB7VpTttlo1pw~Tb5QnCIAXvEsR7DhVQULRzdXHpYhvpBoCN~T9G7p~n110f0X5cz4qtIz-k5cVBcHxm9GKo5CX~EL9GYQDe-zIcT0E3T4jAsUcGpQQ7J11WO1Xngb1Li7o4Ihmw__&amp;amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA&#34;&gt;Scoliosis Research Society—Schwab Adult Spinal Deformity Classification: A Validation Study&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Техники коррекции деформаций позвоночника</title>
+      <link>/post/vreden-webinar-30-06-2020/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/vreden-webinar-30-06-2020/</guid>
+      <description>
+
+
+&lt;p&gt;30 июня 2020 г. 16-00 (MSK) пройдет вебинар «Техники коррекции деформаций позвоночника. От стержня до манипуляций с позвоночным столбом (DVR/VCM)» в рамках «Вреденовские Чтения Online».&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://altaastra.com/img/vr5/MeettheExpert_Spine_Rus.pdf&#34;&gt;Программа вебинара&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Эволюция техники коррекции деформаций позвоночника. От стержня до манипуляций с позвоночным столбом (DVR/VCM). Один и два стержня. Когда и что применять? Применение крючков при DVR и VCM. Презентация клинического случая. Вопросы и ответы.&lt;/p&gt;
+&lt;div id=&#34;докладчики&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Докладчики:&lt;/h3&gt;
+&lt;p&gt;Проф. Пташников Дмитрий Александрович&lt;br /&gt;
+НМИЦ ТО им. Р.Р.Вредена&lt;br /&gt;
+Санкт-Петербург, Россия&lt;/p&gt;
+&lt;p&gt;Проф. Колесов Сергей Васильевич&lt;br /&gt;
+ЦИТО им. Н.Н. Приорова&lt;br /&gt;
+Москва, Россия&lt;/p&gt;
+&lt;p&gt;Проф. Репко Мартин&lt;br /&gt;
+Университетская клиника Брно&lt;br /&gt;
+Брно, Чешская республика&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSc5UIlElE531FrwVJfpW3uny2zhj8fiOlUZaq2Pz4dav3LU_A/viewform&#34;&gt;Регистрация по ссылке&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Часто задаваемые вопросы о сколиозе</title>
@@ -856,9 +983,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Оценка мышечной силы</title>
-      <link>/post/muscular-strenght/</link>
+      <link>/talk/muscular-strenght/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/muscular-strenght/</guid>
+      <guid>/talk/muscular-strenght/</guid>
       <description>
 
 
@@ -909,9 +1036,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Aebi (деформации позвоночника у взрослых)</title>
-      <link>/post/aebi-classification/</link>
+      <link>/talk/aebi-classification/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/aebi-classification/</guid>
+      <guid>/talk/aebi-classification/</guid>
       <description>
 
 
