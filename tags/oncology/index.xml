@@ -5,12 +5,129 @@
     <link>/tags/oncology/</link>
       <atom:link href="/tags/oncology/index.xml" rel="self" type="application/rss+xml" />
     <description>oncology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>oncology</title>
       <link>/tags/oncology/</link>
     </image>
+    
+    <item>
+      <title>Классификация Tomita (опухоли позвоночника)</title>
+      <link>/post/tomita/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tomita/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;K. Tomita с соавторами (2001) и N. Kawahara с соавторами (2009) на основании анализа результатов лечения 67 пациентов предложили систему для прогнозирования выживаемости пациентов с опухолями позвоночника. На основе статистического анализа факторов из шкалы Tokuhashi (первчиной версии) была получена более простая шкала Tomita. Так же авторы пересмотрели прогнозируемые сроки выживаемости.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Фактор&lt;/th&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Первичная опухоль&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Медленный рост (молочная железа, щитовидная железа и т.д.)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Средний рост (почка, мочеточник и т.д.)&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Быстрый рост (легкое, желудок и т.д.)&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Висцеральные метастазы&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Подлежит удалению&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Не подлежит удалению&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Метастазирование в костях&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Солитарный очаг&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Множественные очаги&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div id=&#34;подсчет-баллов&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Подсчет баллов&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Продолжительность жизни&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2-4&lt;/td&gt;
+&lt;td&gt;&amp;gt; 2 лет&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;4-6&lt;/td&gt;
+&lt;td&gt;1-2 года&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;6-8&lt;/td&gt;
+&lt;td&gt;6-12 месяцев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;8-10&lt;/td&gt;
+&lt;td&gt;&amp;lt; 3 месяцев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;При прогнозе жизни более 2-х лет пациентам показано проведение широкой или краевой резекции опухоли&lt;/li&gt;
+&lt;li&gt;При 1-2 года – показано проведение краевой резекции или кюретажа опухоли&lt;/li&gt;
+&lt;li&gt;При 6-12 месяцах – проведение паллиативной операции&lt;/li&gt;
+&lt;li&gt;Если предполагаемая продолжительность жизни меньше 3-х месяцев, пациенту предлагается только поддерживающая терапия&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.lww.com/spinejournal/Abstract/2001/02010/Surgical_Strategy_for_Spinal_Metastases.16.aspx&#34;&gt;Surgical Strategy for Spinal Metastases&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Что такое вертебропластика?</title>
@@ -835,9 +952,9 @@
     
     <item>
       <title>Оценка мышечной силы</title>
-      <link>/talk/muscular-strenght/</link>
+      <link>/post/muscular-strenght/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/muscular-strenght/</guid>
+      <guid>/post/muscular-strenght/</guid>
       <description>
 
 
@@ -1070,9 +1187,9 @@
     
     <item>
       <title>Индекс Карновского</title>
-      <link>/talk/karnofsky-status/</link>
+      <link>/post/karnofsky-status/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/karnofsky-status/</guid>
+      <guid>/post/karnofsky-status/</guid>
       <description>
 
 
@@ -1105,9 +1222,9 @@
     
     <item>
       <title>Оценка общего состояния больного с использованием шкалы ECOG</title>
-      <link>/talk/ecog-scale/</link>
+      <link>/post/ecog-scale/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/ecog-scale/</guid>
+      <guid>/post/ecog-scale/</guid>
       <description>
 
 
