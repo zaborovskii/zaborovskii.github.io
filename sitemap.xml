@@ -193,11 +193,6 @@
   </url>
   
   <url>
-    <loc>/post/spinal-metastasis-webinar/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/types-of-decompression-surgery/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -293,6 +288,16 @@
   </url>
   
   <url>
+    <loc>/talk/spinal-metastasis-webinar/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -300,6 +305,16 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/complications-in-spinal-deformity-surgery/</loc>
+    <lastmod>2016-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sagittal-balance/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -328,10 +343,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Записи блога | Никита Заборовский</title>
+    <title>Блог | Никита Заборовский</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Записи блога</description>
+    <description>Блог</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
-      <title>Записи блога</title>
+      <title>Блог</title>
       <link>/post/</link>
     </image>
     
@@ -1333,20 +1333,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 &lt;p&gt;Авторы сделали эти компромиссы для того, чтобы упростить оценочную систему и сделать ее более пригодной для использования в клинической практике. Однако, эти чрезмерные упрощения, возможно, ограничили то, насколько сильно модель влияет на процесс принятия решений, выходя за рамки общих показателей осложнений, возникающих при проведении крупных исследований на “среднего” пациента. В поясничной когорте 70% пациентов имели оценку 0-3, а прогнозируемая частота осложнений варьировалась от 4% до 11%. Пациент мог получить оценку “три”, будучи 60-летним афроамериканцем с гипертонической болезнью и отсутствием других сопутствующих заболеваний. Аналогичным образом, онкологический пациент, находящийся на диализе и нуждающийся в дооперационном переливании, также получил бы 3 балла, несмотря на значительно более высокий риск осложнений. Эта модель действительно служит хорошим напоминанием о том, что увеличение числа сопутствующих заболеваний увеличивает риск осложнений. Сколько она добавляет, помимо усилий хирургов, еще предстоит увидеть.&lt;/p&gt;
 &lt;p&gt;По материалам журнала &lt;a href=&#34;https://journals.lww.com/spinejournal/blog/SpineBlog/pages/post.aspx?PostID=639&#34;&gt;Spine&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://journals.lww.com/spinejournal/Fulltext/2020/05010/Development_of_a_Risk_Prediction_Model_With.17.aspx&#34;&gt;Development of a Risk Prediction Model With Improved Clinical Utility in Elective Cervical and Lumbar Spine Surgery&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Метастазы в позвоночнике (видео)</title>
-      <link>/post/spinal-metastasis-webinar/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/spinal-metastasis-webinar/</guid>
-      <description>
-
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3qwG56_Pd-c&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
-&lt;/iframe&gt;
 </description>
     </item>
     

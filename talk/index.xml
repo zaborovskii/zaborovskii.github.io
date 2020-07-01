@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Коллегам | Никита Заборовский</title>
+    <title>Презентации | Никита Заборовский</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Коллегам</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language>
+    <description>Презентации</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
-      <title>Коллегам</title>
+      <title>Презентации</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Метастазы в позвоночнике</title>
+      <link>/talk/spinal-metastasis-webinar/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/spinal-metastasis-webinar/</guid>
+      <description>
+
+
+&lt;p&gt;Санкт-Петербург&lt;/p&gt;
+&lt;iframe width=&#34;480&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3qwG56_Pd-c&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Осложнения после коррекции деформации позвоночника</title>
+      <link>/talk/complications-in-spinal-deformity-surgery/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/complications-in-spinal-deformity-surgery/</guid>
+      <description>
+
+
+&lt;p&gt;Москва&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qMIAisC83ok?controls=0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сагиттальный баланс позвоночника</title>
+      <link>/talk/sagittal-balance/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/sagittal-balance/</guid>
+      <description>
+
+
+&lt;p&gt;Санкт-Петербург&lt;/p&gt;
+&lt;iframe width=&#34;480&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3_9QTASRi5I?controls=0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
