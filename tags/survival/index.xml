@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survival | Никита Заборовский</title>
+    <link>/tags/survival/</link>
+      <atom:link href="/tags/survival/index.xml" rel="self" type="application/rss+xml" />
+    <description>survival</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <title>survival</title>
+      <link>/tags/survival/</link>
+    </image>
+    
+    <item>
+      <title>Продолжительность жизни при раке молочной железы</title>
+      <link>/post/breast-cancer-survival/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/breast-cancer-survival/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.&lt;/p&gt;
+&lt;style&gt;
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+&lt;/style&gt;
+&lt;div class = &#34;blue&#34;&gt;
+
+&lt;p&gt;Имейте в виду, что показатели выживаемости являются оценочными и часто основаны на предыдущих результатах лечения большого числа людей. Эти показатели не могут предсказать, что произойдет в конкретном случае. Иногда статистические данные вводят в заблуждение и могут привести к появлению дополнительных вопросов. Поговорите со своим врачом о том, как эти цифры могут применяться к вам, поскольку он или она знакомы с вашей ситуацией.&lt;/p&gt;
+&lt;style&gt;
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+&lt;/style&gt;
+&lt;div class = &#34;blue&#34;&gt;
+
+&lt;div id=&#34;что-такое-5-летняя-относительная-выживаемость&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Что такое 5-летняя относительная выживаемость?&lt;/h3&gt;
+&lt;p&gt;Относительный уровень выживаемости сравнивает женщин с тем же типом и стадией рака молочной железы и женщин в общей популяции. Например, если 5-летняя относительная выживаемость для конкретной стадии рака молочной железы составляет 90%, это означает, что 90% женщин, у которых есть рак проживут в течении 5 лет, по сравнению с женщинами, у которых нет рака.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;откуда-эти-цифры&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Откуда эти цифры?&lt;/h3&gt;
+&lt;p&gt;К сожалению для России нет больших популяционных показателей для оценки продолжительности жизни пациентов с различными типами рака. Здесь приведены данные из американского регистра эпиднадзору и оценке исходов лечения (&lt;a href=&#34;https://seer.cancer.gov/&#34;&gt;SEER&lt;/a&gt;), который ведет Национальный институт рака (&lt;a href=&#34;https://www.cancer.gov/&#34;&gt;NCI&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;База данных SEER отслеживает 5-летнюю относительную выживаемость при раке молочной железы в США, основываясь на распространении заболевания в организме. База данных SEER, однако, не группирует заболевания по стадиям &lt;a href=&#34;https://www.cancerstaging.org/references-tools/Pages/What-is-Cancer-Staging.aspx&#34;&gt;TNM&lt;/a&gt; (1 стадия, 2 стадия, 3 стадия и 4 стадия). Вместо этого он группирует злокачественные заболевания на следующие стадии: локализованная, региональная и метастатическая.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Локализованая: нет признаков того, что рак распространился за пределы груди.&lt;/li&gt;
+&lt;li&gt;Региональная: рак распространился за пределы груди в соседние структуры или лимфатические узлы.&lt;/li&gt;
+&lt;li&gt;Метастатическая: рак распространился на отдаленные части тела, такие как легкие, печень или кости.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;летняя-относительная-выживаемость-при-раке-молочной-железы&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;5-летняя относительная выживаемость при раке молочной железы&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Стадия SEER&lt;/th&gt;
+&lt;th&gt;5-летняя относительная выживаемость&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Локализованная&lt;/td&gt;
+&lt;td&gt;99%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Регионарная&lt;/td&gt;
+&lt;td&gt;86%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Метастатическая&lt;/td&gt;
+&lt;td&gt;27%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Все стадии&lt;/td&gt;
+&lt;td&gt;90%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;как-интерпретировать-эти-данные&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Как интерпретировать эти данные?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Женщины, у которых сейчас диагностирован рак молочной железы, могут иметь лучший прогноз, чем указан выше. С течением времени появляются новые методы лечения. Представленные данные основаны на оценке результатов у женщин, которые получали лечение по крайней мере пять лет назад.&lt;/li&gt;
+&lt;li&gt;Эти данные относятся только к той стадии рака, который был диагностирован впервые. Они не применяются если рак прогрессирует или рецидивирует после лечения.&lt;/li&gt;
+&lt;li&gt;Эти данные не учитывают все. Показатели выживаемости сгруппированы в зависимости от распространения рака. Но также могут повлиять на развитие заболевания ваш возраст, общее состояние здоровья, то, насколько хорошо рак реагирует на лечение, стадия опухоли, наличие гормональных рецепторов в раковых клетках и другие факторы.&lt;/li&gt;
+&lt;li&gt;Показатели выживаемости у женщин с тройным негативным раком молочной железы (полное отсутствие гормональных рецепторов) отличаются от указанных выше.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

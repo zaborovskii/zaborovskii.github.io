@@ -5,12 +5,446 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Никита Заборовский</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>Никита Заборовский</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Продолжительность жизни при раке молочной железы</title>
+      <link>/post/breast-cancer-survival/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/breast-cancer-survival/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.&lt;/p&gt;
+&lt;style&gt;
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+&lt;/style&gt;
+&lt;div class = &#34;blue&#34;&gt;
+
+&lt;p&gt;Имейте в виду, что показатели выживаемости являются оценочными и часто основаны на предыдущих результатах лечения большого числа людей. Эти показатели не могут предсказать, что произойдет в конкретном случае. Иногда статистические данные вводят в заблуждение и могут привести к появлению дополнительных вопросов. Поговорите со своим врачом о том, как эти цифры могут применяться к вам, поскольку он или она знакомы с вашей ситуацией.&lt;/p&gt;
+&lt;style&gt;
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+&lt;/style&gt;
+&lt;div class = &#34;blue&#34;&gt;
+
+&lt;div id=&#34;что-такое-5-летняя-относительная-выживаемость&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Что такое 5-летняя относительная выживаемость?&lt;/h3&gt;
+&lt;p&gt;Относительный уровень выживаемости сравнивает женщин с тем же типом и стадией рака молочной железы и женщин в общей популяции. Например, если 5-летняя относительная выживаемость для конкретной стадии рака молочной железы составляет 90%, это означает, что 90% женщин, у которых есть рак проживут в течении 5 лет, по сравнению с женщинами, у которых нет рака.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;откуда-эти-цифры&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Откуда эти цифры?&lt;/h3&gt;
+&lt;p&gt;К сожалению для России нет больших популяционных показателей для оценки продолжительности жизни пациентов с различными типами рака. Здесь приведены данные из американского регистра эпиднадзору и оценке исходов лечения (&lt;a href=&#34;https://seer.cancer.gov/&#34;&gt;SEER&lt;/a&gt;), который ведет Национальный институт рака (&lt;a href=&#34;https://www.cancer.gov/&#34;&gt;NCI&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;База данных SEER отслеживает 5-летнюю относительную выживаемость при раке молочной железы в США, основываясь на распространении заболевания в организме. База данных SEER, однако, не группирует заболевания по стадиям &lt;a href=&#34;https://www.cancerstaging.org/references-tools/Pages/What-is-Cancer-Staging.aspx&#34;&gt;TNM&lt;/a&gt; (1 стадия, 2 стадия, 3 стадия и 4 стадия). Вместо этого он группирует злокачественные заболевания на следующие стадии: локализованная, региональная и метастатическая.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Локализованая: нет признаков того, что рак распространился за пределы груди.&lt;/li&gt;
+&lt;li&gt;Региональная: рак распространился за пределы груди в соседние структуры или лимфатические узлы.&lt;/li&gt;
+&lt;li&gt;Метастатическая: рак распространился на отдаленные части тела, такие как легкие, печень или кости.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;летняя-относительная-выживаемость-при-раке-молочной-железы&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;5-летняя относительная выживаемость при раке молочной железы&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Стадия SEER&lt;/th&gt;
+&lt;th&gt;5-летняя относительная выживаемость&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Локализованная&lt;/td&gt;
+&lt;td&gt;99%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Регионарная&lt;/td&gt;
+&lt;td&gt;86%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Метастатическая&lt;/td&gt;
+&lt;td&gt;27%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Все стадии&lt;/td&gt;
+&lt;td&gt;90%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;как-интерпретировать-эти-данные&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Как интерпретировать эти данные?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Женщины, у которых сейчас диагностирован рак молочной железы, могут иметь лучший прогноз, чем указан выше. С течением времени появляются новые методы лечения. Представленные данные основаны на оценке результатов у женщин, которые получали лечение по крайней мере пять лет назад.&lt;/li&gt;
+&lt;li&gt;Эти данные относятся только к той стадии рака, который был диагностирован впервые. Они не применяются если рак прогрессирует или рецидивирует после лечения.&lt;/li&gt;
+&lt;li&gt;Эти данные не учитывают все. Показатели выживаемости сгруппированы в зависимости от распространения рака. Но также могут повлиять на развитие заболевания ваш возраст, общее состояние здоровья, то, насколько хорошо рак реагирует на лечение, стадия опухоли, наличие гормональных рецепторов в раковых клетках и другие факторы.&lt;/li&gt;
+&lt;li&gt;Показатели выживаемости у женщин с тройным негативным раком молочной железы (полное отсутствие гормональных рецепторов) отличаются от указанных выше.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Классификация Enneking (опухоли позвоночника)</title>
+      <link>/post/enneking/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/enneking/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Традиционно для оценки опухолей костей используются принципы, которые были за-ложены в классификации W.F. Enneking с соавторами. И хотя для опухолей позвоночного столба система Enneking не учитывает наличие сплошного эпидурального компартмента, ее концепция представляется крайне удобной для стадирования опухолевых поражений позвоночника. Стадии системы основаны на характеристике края опухоли, агрессивности поражения, экстраоссальном росте и наличии метастазов.&lt;/p&gt;
+&lt;p&gt;В рамках классификации Enneking стадии доброкачественных и злокачественных опухолей отличаются.&lt;/p&gt;
+&lt;div id=&#34;доброкачественные&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Доброкачественные&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Стадия&lt;/th&gt;
+&lt;th&gt;Характер&lt;/th&gt;
+&lt;th&gt;T&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;S1&lt;/td&gt;
+&lt;td&gt;Скрытая&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;S2&lt;/td&gt;
+&lt;td&gt;Активная&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;S3&lt;/td&gt;
+&lt;td&gt;Агрессивная&lt;/td&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Система стадирования доброкачественных опухолей содержит три категори: скрытая (S1), активная (S2) и агрессивная (S3). Классификация основана на рентгенографических характеристиках края опухоли. Границы с четкими краями указывают на латентное течение (скрытая стадия), тогда как нечеткие границы являются результатом прорастания опухоли в кость и более агрессивного поражения (активная стадия). При агрессивной стадии границы еще более нечеткие, опухоль может выходить за пределы позвонка.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;злокачественные&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Злокачественные&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Стадия&lt;/th&gt;
+&lt;th&gt;T&lt;/th&gt;
+&lt;th&gt;G&lt;/th&gt;
+&lt;th&gt;M&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;IA&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;IB&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;IIA&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;IIB&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;III&lt;/td&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Система стадирования злокачественных опухолей учитывает степень злокачественности (G), локальное распространение (Т), а также наличие или отсутствие метастазов (М). Система имеет 3 стадии: стадии I и II основаны на степени злокачественности опухоли. При II стадии из-за быстрого роста опухоли псевдокапсула реактивной ткани слабо выражена, имеет бреши, опухолевые клетки могут находится за ее пределами («прыгающие метастазы»).&lt;/p&gt;
+&lt;p&gt;Вышеуказанные 2 стадии делятся на две подкатегории (A, B) в зависимости от локального распространения опухоли (экстраоссальный рост). III стадия представляет собой любую опухоль с отдаленным метастазированием.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;варианты-лечения&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Варианты лечения&lt;/h3&gt;
+&lt;p&gt;S. Boriani с соавторами на основании классификации Enneking выделил различные варианты лечения для опухолей позвоночника при каждой стадии&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Стадия&lt;/th&gt;
+&lt;th&gt;Вариант&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;S1&lt;/td&gt;
+&lt;td&gt;Наблюдение&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;S2&lt;/td&gt;
+&lt;td&gt;Внутриочаговая экстракапсулярная резекция&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;S3&lt;/td&gt;
+&lt;td&gt;Внеочаговая en bloc резекция +/- лекарственная / лучевая терапия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;IA&lt;/td&gt;
+&lt;td&gt;Внеочаговая резекция&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;IB&lt;/td&gt;
+&lt;td&gt;Внеочаговая en bloc резекция +/- лекарственная / лучевая терапия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;IIA&lt;/td&gt;
+&lt;td&gt;Внеочаговая en bloc резекция +/- лекарственная / лучевая терапия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;IIB&lt;/td&gt;
+&lt;td&gt;Внеочаговая en bloc резекция +/- лекарственная / лучевая терапия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;III&lt;/td&gt;
+&lt;td&gt;Паллиативное лечение +/- лекарственная / лучевая терапия&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882012/&#34;&gt;Enneking Classification: Benign and Malignant Tumors of the Musculoskeletal System&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Классификация Tokuhashi модифицированная (опухоли позвоночника)</title>
+      <link>/post/tokuhashi/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tokuhashi/</guid>
+      <description>
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Исследователями неоднократно поднимался вопрос о создании шкалы для оценки предполагаемой продолжительности жизни пациента с опухолевым поражением позвоночника. Подобную шкалу в 1989 году предложил Y. Tokuhashi с соавторами, в 2005 году шкала подверглась пересмотру. Шкала содержит 6 пунктов, по мнению авторов, влияющих на результат лечения. Выживаемость рассчитывается путем суммирования полученных баллов по каждому из пунктов. Авторы установили, что чувствительность шкалы составила 87,9%.&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;91%&#34; /&gt;
+&lt;col width=&#34;8%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Фактор&lt;/th&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Общее состояние (индекс Karnofsky)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Тяжелое (10-40%)&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Среднее (50-70%)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Удовлетворительное (80-100%)&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Количество метастазов в костях за исключением позвоночника&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;≥ 3&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Количество метастазов в позвоночнике&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;≥ 3&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Метастазы во внутренних органах (легкие, печень, почки, головной мозг)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Не подлежит удалению&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Подлежит удалению&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Нет метастазов&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Первичная локализация опухоли&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Легкое, остеосаркома, желудок, мочевой пузырь, пищевод, поджелудочная железа&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Печень, желчный пузырь, неидентифицированная опухоль&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Другие&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Почка, мочеточник&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Прямая кишка&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Щитовидная железа, простата, молочная железа, карциноид&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Парез&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Полный (Frankel A, B)&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Неполный (Frankel C, D)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Нет (Frankel E)&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div id=&#34;подсчет-баллов&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Подсчет баллов&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;th&gt;Продолжительность жизни&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;0-8&lt;/td&gt;
+&lt;td&gt;&amp;lt; 6 месяцев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;9-11&lt;/td&gt;
+&lt;td&gt;6-12 месяцев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;12-15&lt;/td&gt;
+&lt;td&gt;&amp;gt; 12 месяцев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;При прогнозе жизни больше 1 года - радикальное лечение&lt;/li&gt;
+&lt;li&gt;Если 6-12 месяцев – решение принимает лечащий врач&lt;/li&gt;
+&lt;li&gt;Если прогноз был меньше 6 месяцев - лечение паллиативное&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16205345/&#34;&gt;A revised scoring system for preoperative evaluation of metastatic spine tumor prognosis&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>5 вопросов, о которых надо подумать перед операцией на позвоночнике</title>
@@ -90,9 +524,9 @@
     
     <item>
       <title>Классификация Tomita (опухоли позвоночника)</title>
-      <link>/post/tomita/</link>
+      <link>/post/tomita-prognosis/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/tomita/</guid>
+      <guid>/post/tomita-prognosis/</guid>
       <description>
 
 
@@ -2383,6 +2817,20 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Множественная миелома позвоночника - выживаемость, осложнения и функциональный результат после хирургического лечения</title>
+      <link>/talk/multiple-myeloma/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/multiple-myeloma/</guid>
+      <description>
+
+
+&lt;p&gt;Санкт-Петербург&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BVuZTSNuESk?controls=0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
 </description>
     </item>
     
