@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deformity | Никита Заборовский</title>
-    <link>/tags/deformity/</link>
-      <atom:link href="/tags/deformity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/deformity/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/deformity/index.xml" rel="self" type="application/rss+xml" />
     <description>deformity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>deformity</title>
-      <link>/tags/deformity/</link>
+      <link>https://zaborovskii.github.io/tags/deformity/</link>
     </image>
     
     <item>
       <title>Хирургическое лечение деформации позвоночника у взрослых</title>
-      <link>/talk/spinal-deformity-webinar-19-08-2020/</link>
+      <link>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/spinal-deformity-webinar-19-08-2020/</guid>
+      <guid>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</guid>
       <description>
 
 
@@ -28,9 +28,9 @@
     
     <item>
       <title>5 вопросов, о которых надо подумать перед операцией на позвоночнике</title>
-      <link>/post/5-questions-to-answer-before-surgery/</link>
+      <link>https://zaborovskii.github.io/post/5-questions-to-answer-before-surgery/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/5-questions-to-answer-before-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/5-questions-to-answer-before-surgery/</guid>
       <description>
 
 
@@ -104,9 +104,9 @@
     
     <item>
       <title>Классификация SRS-Schwab (деформации позвоночника у взрослых)</title>
-      <link>/post/srs-schwab-classification/</link>
+      <link>https://zaborovskii.github.io/post/srs-schwab-classification/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/srs-schwab-classification/</guid>
+      <guid>https://zaborovskii.github.io/post/srs-schwab-classification/</guid>
       <description>
 
 
@@ -204,9 +204,9 @@
     
     <item>
       <title>Техники коррекции деформаций позвоночника</title>
-      <link>/post/vreden-webinar-30-06-2020/</link>
+      <link>https://zaborovskii.github.io/post/vreden-webinar-30-06-2020/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/vreden-webinar-30-06-2020/</guid>
+      <guid>https://zaborovskii.github.io/post/vreden-webinar-30-06-2020/</guid>
       <description>
 
 
@@ -231,9 +231,9 @@
     
     <item>
       <title>Часто задаваемые вопросы о сколиозе</title>
-      <link>/post/scoliosis-faq/</link>
+      <link>https://zaborovskii.github.io/post/scoliosis-faq/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/scoliosis-faq/</guid>
+      <guid>https://zaborovskii.github.io/post/scoliosis-faq/</guid>
       <description>
 
 
@@ -364,9 +364,9 @@
     
     <item>
       <title>Операция при сколиозе</title>
-      <link>/post/idiopathic-scoliosis/</link>
+      <link>https://zaborovskii.github.io/post/idiopathic-scoliosis/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/idiopathic-scoliosis/</guid>
+      <guid>https://zaborovskii.github.io/post/idiopathic-scoliosis/</guid>
       <description>
 
 
@@ -519,9 +519,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Спондилодез</title>
-      <link>/post/spinal-fusion/</link>
+      <link>https://zaborovskii.github.io/post/spinal-fusion/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/spinal-fusion/</guid>
+      <guid>https://zaborovskii.github.io/post/spinal-fusion/</guid>
       <description>
 
 
@@ -602,9 +602,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое компьютерная томография (КТ) позвоночника?</title>
-      <link>/post/ct/</link>
+      <link>https://zaborovskii.github.io/post/ct/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/ct/</guid>
+      <guid>https://zaborovskii.github.io/post/ct/</guid>
       <description>
 
 
@@ -683,9 +683,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое магнитно-резонансная томография (МРТ) позвоночника?</title>
-      <link>/post/mri/</link>
+      <link>https://zaborovskii.github.io/post/mri/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/mri/</guid>
+      <guid>https://zaborovskii.github.io/post/mri/</guid>
       <description>
 
 
@@ -791,9 +791,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое рентгенография позвоночника?</title>
-      <link>/post/x-ray/</link>
+      <link>https://zaborovskii.github.io/post/x-ray/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/x-ray/</guid>
+      <guid>https://zaborovskii.github.io/post/x-ray/</guid>
       <description>
 
 
@@ -866,9 +866,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Информация для пациентов</title>
-      <link>/project/information-for-patients/</link>
+      <link>https://zaborovskii.github.io/project/information-for-patients/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/information-for-patients/</guid>
+      <guid>https://zaborovskii.github.io/project/information-for-patients/</guid>
       <description>
 
 
@@ -881,9 +881,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Заболевания позвоночника</title>
-      <link>/project/conditions/</link>
+      <link>https://zaborovskii.github.io/project/conditions/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/conditions/</guid>
+      <guid>https://zaborovskii.github.io/project/conditions/</guid>
       <description>
 
 
@@ -893,9 +893,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Виды декомпрессивных операций в хирургии позвоночника</title>
-      <link>/post/types-of-decompression-surgery/</link>
+      <link>https://zaborovskii.github.io/post/types-of-decompression-surgery/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/types-of-decompression-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/types-of-decompression-surgery/</guid>
       <description>
 
 
@@ -946,9 +946,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>4 совета, которые помогут избежать операции на позвоночнике</title>
-      <link>/post/4-ways-to-avoid-undergoing-back-surgery/</link>
+      <link>https://zaborovskii.github.io/post/4-ways-to-avoid-undergoing-back-surgery/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/4-ways-to-avoid-undergoing-back-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/4-ways-to-avoid-undergoing-back-surgery/</guid>
       <description>
 
 
@@ -979,9 +979,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>18 отделение «Нейроортопедии с костной онкологией»</title>
-      <link>/post/18-department/</link>
+      <link>https://zaborovskii.github.io/post/18-department/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/18-department/</guid>
+      <guid>https://zaborovskii.github.io/post/18-department/</guid>
       <description>
 
 
@@ -1033,9 +1033,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Как улучшить шансы на успешную операцию на позвоночнике</title>
-      <link>/post/successful-spine-surgery/</link>
+      <link>https://zaborovskii.github.io/post/successful-spine-surgery/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/successful-spine-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/successful-spine-surgery/</guid>
       <description>
 
 
@@ -1073,9 +1073,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Оценка мышечной силы</title>
-      <link>/post/muscular-strenght/</link>
+      <link>https://zaborovskii.github.io/post/muscular-strenght/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/muscular-strenght/</guid>
+      <guid>https://zaborovskii.github.io/post/muscular-strenght/</guid>
       <description>
 
 
@@ -1126,19 +1126,19 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Aebi (деформации позвоночника у взрослых)</title>
-      <link>/post/aebi-classification/</link>
+      <link>https://zaborovskii.github.io/post/aebi-classification/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/aebi-classification/</guid>
+      <guid>https://zaborovskii.github.io/post/aebi-classification/</guid>
       <description>
 
 
 &lt;div id=&#34;тип-1-первичный-дегенеративный-сколиоз-de-novo-form&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Тип 1: Первичный дегенеративный сколиоз (‘de novo’ form)&lt;/h3&gt;
-&lt;p&gt;На фоне дегенеративно-дистрофического заболевания позвоночника&lt;/p&gt;
+&lt;p&gt;На фоне дегенеративно-дистрофического заболевания позвоночника.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;тип-2-прогрессирующий-идиопатический-сколиоз-взрослых&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Тип 2: Прогрессирующий идиопатический сколиоз взрослых&lt;/h3&gt;
-&lt;p&gt;У пациента присутствовала деформация позвоночника ранее, но отсутствовали дегенеративно-дистрофические изменения&lt;/p&gt;
+&lt;p&gt;У пациента присутствовала деформация позвоночника ранее, но отсутствовали дегенеративно-дистрофические изменения.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2A: младше 25 лет&lt;/li&gt;
 &lt;li&gt;2B: старше 25 лет&lt;/li&gt;
@@ -1162,9 +1162,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Инъекция в межпозвонковые (фасеточные) суставы</title>
-      <link>/post/facet-joint-injection/</link>
+      <link>https://zaborovskii.github.io/post/facet-joint-injection/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/facet-joint-injection/</guid>
+      <guid>https://zaborovskii.github.io/post/facet-joint-injection/</guid>
       <description>
 
 
@@ -1188,9 +1188,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Боль в фасеточных (межпозвонковых) суставах после операции на позвоночнике</title>
-      <link>/post/facet-joint-pain-after-spine-surgery/</link>
+      <link>https://zaborovskii.github.io/post/facet-joint-pain-after-spine-surgery/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/facet-joint-pain-after-spine-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/facet-joint-pain-after-spine-surgery/</guid>
       <description>
 
 
@@ -1240,9 +1240,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Осложнения после коррекции деформации позвоночника</title>
-      <link>/talk/complications-in-spinal-deformity-surgery/</link>
+      <link>https://zaborovskii.github.io/talk/complications-in-spinal-deformity-surgery/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/complications-in-spinal-deformity-surgery/</guid>
+      <guid>https://zaborovskii.github.io/talk/complications-in-spinal-deformity-surgery/</guid>
       <description>
 
 
@@ -1254,9 +1254,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Сагиттальный баланс позвоночника</title>
-      <link>/talk/sagittal-balance/</link>
+      <link>https://zaborovskii.github.io/talk/sagittal-balance/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/sagittal-balance/</guid>
+      <guid>https://zaborovskii.github.io/talk/sagittal-balance/</guid>
       <description>
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Блог | Никита Заборовский</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/post/</link>
+      <atom:link href="https://zaborovskii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Блог</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>Блог</title>
-      <link>/post/</link>
+      <link>https://zaborovskii.github.io/post/</link>
     </image>
     
     <item>
       <title>Продолжительность жизни при раке молочной железы</title>
-      <link>/post/breast-cancer-survival/</link>
+      <link>https://zaborovskii.github.io/post/breast-cancer-survival/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/breast-cancer-survival/</guid>
+      <guid>https://zaborovskii.github.io/post/breast-cancer-survival/</guid>
       <description>
 
 
@@ -39,7 +39,8 @@
 &lt;/div&gt;
 &lt;/noscript&gt;
 &lt;!-- /Yandex.Metrika counter --&gt;
-&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.&lt;/p&gt;
+&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.
+11&lt;/p&gt;
 &lt;style&gt;
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 &lt;/style&gt;
@@ -103,9 +104,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Enneking (опухоли позвоночника)</title>
-      <link>/post/enneking/</link>
+      <link>https://zaborovskii.github.io/post/enneking/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/enneking/</guid>
+      <guid>https://zaborovskii.github.io/post/enneking/</guid>
       <description>
 
 
@@ -259,9 +260,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Tokuhashi модифицированная (опухоли позвоночника)</title>
-      <link>/post/tokuhashi/</link>
+      <link>https://zaborovskii.github.io/post/tokuhashi/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/tokuhashi/</guid>
+      <guid>https://zaborovskii.github.io/post/tokuhashi/</guid>
       <description>
 
 
@@ -443,9 +444,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>5 вопросов, о которых надо подумать перед операцией на позвоночнике</title>
-      <link>/post/5-questions-to-answer-before-surgery/</link>
+      <link>https://zaborovskii.github.io/post/5-questions-to-answer-before-surgery/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/5-questions-to-answer-before-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/5-questions-to-answer-before-surgery/</guid>
       <description>
 
 
@@ -519,9 +520,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Tomita (опухоли позвоночника)</title>
-      <link>/post/tomita-prognosis/</link>
+      <link>https://zaborovskii.github.io/post/tomita-prognosis/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/tomita-prognosis/</guid>
+      <guid>https://zaborovskii.github.io/post/tomita-prognosis/</guid>
       <description>
 
 
@@ -636,9 +637,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация SRS-Schwab (деформации позвоночника у взрослых)</title>
-      <link>/post/srs-schwab-classification/</link>
+      <link>https://zaborovskii.github.io/post/srs-schwab-classification/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/srs-schwab-classification/</guid>
+      <guid>https://zaborovskii.github.io/post/srs-schwab-classification/</guid>
       <description>
 
 
@@ -736,9 +737,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Техники коррекции деформаций позвоночника</title>
-      <link>/post/vreden-webinar-30-06-2020/</link>
+      <link>https://zaborovskii.github.io/post/vreden-webinar-30-06-2020/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/vreden-webinar-30-06-2020/</guid>
+      <guid>https://zaborovskii.github.io/post/vreden-webinar-30-06-2020/</guid>
       <description>
 
 
@@ -763,9 +764,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Часто задаваемые вопросы о сколиозе</title>
-      <link>/post/scoliosis-faq/</link>
+      <link>https://zaborovskii.github.io/post/scoliosis-faq/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/scoliosis-faq/</guid>
+      <guid>https://zaborovskii.github.io/post/scoliosis-faq/</guid>
       <description>
 
 
@@ -896,9 +897,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Как поставить диагноз ДДЗП (остеохондроз)</title>
-      <link>/post/how-ddd-is-diagnosed/</link>
+      <link>https://zaborovskii.github.io/post/how-ddd-is-diagnosed/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/how-ddd-is-diagnosed/</guid>
+      <guid>https://zaborovskii.github.io/post/how-ddd-is-diagnosed/</guid>
       <description>
 
 
@@ -947,9 +948,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Операция при сколиозе</title>
-      <link>/post/idiopathic-scoliosis/</link>
+      <link>https://zaborovskii.github.io/post/idiopathic-scoliosis/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/idiopathic-scoliosis/</guid>
+      <guid>https://zaborovskii.github.io/post/idiopathic-scoliosis/</guid>
       <description>
 
 
@@ -1102,9 +1103,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое вертебропластика?</title>
-      <link>/post/vertebroplasty/</link>
+      <link>https://zaborovskii.github.io/post/vertebroplasty/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/vertebroplasty/</guid>
+      <guid>https://zaborovskii.github.io/post/vertebroplasty/</guid>
       <description>
 
 
@@ -1169,9 +1170,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Спондилодез</title>
-      <link>/post/spinal-fusion/</link>
+      <link>https://zaborovskii.github.io/post/spinal-fusion/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/spinal-fusion/</guid>
+      <guid>https://zaborovskii.github.io/post/spinal-fusion/</guid>
       <description>
 
 
@@ -1252,9 +1253,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое компьютерная томография (КТ) позвоночника?</title>
-      <link>/post/ct/</link>
+      <link>https://zaborovskii.github.io/post/ct/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/ct/</guid>
+      <guid>https://zaborovskii.github.io/post/ct/</guid>
       <description>
 
 
@@ -1333,9 +1334,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое магнитно-резонансная томография (МРТ) позвоночника?</title>
-      <link>/post/mri/</link>
+      <link>https://zaborovskii.github.io/post/mri/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/mri/</guid>
+      <guid>https://zaborovskii.github.io/post/mri/</guid>
       <description>
 
 
@@ -1441,9 +1442,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое позитронно-эмиссионная томография (ПЭТ)?</title>
-      <link>/post/pet/</link>
+      <link>https://zaborovskii.github.io/post/pet/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/pet/</guid>
+      <guid>https://zaborovskii.github.io/post/pet/</guid>
       <description>
 
 
@@ -1486,9 +1487,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое рентгенография позвоночника?</title>
-      <link>/post/x-ray/</link>
+      <link>https://zaborovskii.github.io/post/x-ray/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/x-ray/</guid>
+      <guid>https://zaborovskii.github.io/post/x-ray/</guid>
       <description>
 
 
@@ -1561,9 +1562,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Признаки опухоли позвоночника</title>
-      <link>/post/could-be-spine-tumor/</link>
+      <link>https://zaborovskii.github.io/post/could-be-spine-tumor/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/could-be-spine-tumor/</guid>
+      <guid>https://zaborovskii.github.io/post/could-be-spine-tumor/</guid>
       <description>
 
 
@@ -1621,9 +1622,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Советы для предотвращения боли в шее</title>
-      <link>/post/prevent-neck-pain/</link>
+      <link>https://zaborovskii.github.io/post/prevent-neck-pain/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/prevent-neck-pain/</guid>
+      <guid>https://zaborovskii.github.io/post/prevent-neck-pain/</guid>
       <description>
 
 
@@ -1702,9 +1703,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Опухоли позвоночника - симптомы, лечение, прогноз</title>
-      <link>/post/spine-tumor-briefly/</link>
+      <link>https://zaborovskii.github.io/post/spine-tumor-briefly/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/spine-tumor-briefly/</guid>
+      <guid>https://zaborovskii.github.io/post/spine-tumor-briefly/</guid>
       <description>
 
 
@@ -1746,9 +1747,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Помогают ли нам модели прогнозирования осложнений?</title>
-      <link>/post/do-complication-prediction-models-help-us/</link>
+      <link>https://zaborovskii.github.io/post/do-complication-prediction-models-help-us/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/do-complication-prediction-models-help-us/</guid>
+      <guid>https://zaborovskii.github.io/post/do-complication-prediction-models-help-us/</guid>
       <description>
 
 
@@ -1767,9 +1768,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Виды декомпрессивных операций в хирургии позвоночника</title>
-      <link>/post/types-of-decompression-surgery/</link>
+      <link>https://zaborovskii.github.io/post/types-of-decompression-surgery/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/types-of-decompression-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/types-of-decompression-surgery/</guid>
       <description>
 
 
@@ -1820,9 +1821,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Что такое биопсия позвоночника?</title>
-      <link>/post/biopsy/</link>
+      <link>https://zaborovskii.github.io/post/biopsy/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/biopsy/</guid>
+      <guid>https://zaborovskii.github.io/post/biopsy/</guid>
       <description>
 
 
@@ -1911,9 +1912,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Мета-анализ подтверждает преимущества хирургического вмешательства при метастатической компрессии спинного мозга</title>
-      <link>/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</link>
+      <link>https://zaborovskii.github.io/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</guid>
+      <guid>https://zaborovskii.github.io/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</guid>
       <description>
 
 
@@ -1930,9 +1931,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>4 совета, которые помогут избежать операции на позвоночнике</title>
-      <link>/post/4-ways-to-avoid-undergoing-back-surgery/</link>
+      <link>https://zaborovskii.github.io/post/4-ways-to-avoid-undergoing-back-surgery/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/4-ways-to-avoid-undergoing-back-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/4-ways-to-avoid-undergoing-back-surgery/</guid>
       <description>
 
 
@@ -1963,9 +1964,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>18 отделение «Нейроортопедии с костной онкологией»</title>
-      <link>/post/18-department/</link>
+      <link>https://zaborovskii.github.io/post/18-department/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/18-department/</guid>
+      <guid>https://zaborovskii.github.io/post/18-department/</guid>
       <description>
 
 
@@ -2017,9 +2018,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Как улучшить шансы на успешную операцию на позвоночнике</title>
-      <link>/post/successful-spine-surgery/</link>
+      <link>https://zaborovskii.github.io/post/successful-spine-surgery/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/successful-spine-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/successful-spine-surgery/</guid>
       <description>
 
 
@@ -2057,9 +2058,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Оценка мышечной силы</title>
-      <link>/post/muscular-strenght/</link>
+      <link>https://zaborovskii.github.io/post/muscular-strenght/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/muscular-strenght/</guid>
+      <guid>https://zaborovskii.github.io/post/muscular-strenght/</guid>
       <description>
 
 
@@ -2110,19 +2111,19 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Aebi (деформации позвоночника у взрослых)</title>
-      <link>/post/aebi-classification/</link>
+      <link>https://zaborovskii.github.io/post/aebi-classification/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/aebi-classification/</guid>
+      <guid>https://zaborovskii.github.io/post/aebi-classification/</guid>
       <description>
 
 
 &lt;div id=&#34;тип-1-первичный-дегенеративный-сколиоз-de-novo-form&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Тип 1: Первичный дегенеративный сколиоз (‘de novo’ form)&lt;/h3&gt;
-&lt;p&gt;На фоне дегенеративно-дистрофического заболевания позвоночника&lt;/p&gt;
+&lt;p&gt;На фоне дегенеративно-дистрофического заболевания позвоночника.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;тип-2-прогрессирующий-идиопатический-сколиоз-взрослых&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Тип 2: Прогрессирующий идиопатический сколиоз взрослых&lt;/h3&gt;
-&lt;p&gt;У пациента присутствовала деформация позвоночника ранее, но отсутствовали дегенеративно-дистрофические изменения&lt;/p&gt;
+&lt;p&gt;У пациента присутствовала деформация позвоночника ранее, но отсутствовали дегенеративно-дистрофические изменения.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2A: младше 25 лет&lt;/li&gt;
 &lt;li&gt;2B: старше 25 лет&lt;/li&gt;
@@ -2146,9 +2147,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация Modic</title>
-      <link>/post/modic-changes/</link>
+      <link>https://zaborovskii.github.io/post/modic-changes/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/modic-changes/</guid>
+      <guid>https://zaborovskii.github.io/post/modic-changes/</guid>
       <description>
 
 
@@ -2187,9 +2188,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Инъекция в межпозвонковые (фасеточные) суставы</title>
-      <link>/post/facet-joint-injection/</link>
+      <link>https://zaborovskii.github.io/post/facet-joint-injection/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/facet-joint-injection/</guid>
+      <guid>https://zaborovskii.github.io/post/facet-joint-injection/</guid>
       <description>
 
 
@@ -2213,9 +2214,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Классификация опухолей костей ВОЗ - 2013</title>
-      <link>/post/who-bone-tumors/</link>
+      <link>https://zaborovskii.github.io/post/who-bone-tumors/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/who-bone-tumors/</guid>
+      <guid>https://zaborovskii.github.io/post/who-bone-tumors/</guid>
       <description>
 
 
@@ -2395,9 +2396,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Дегенеративно-дистрофическое заболевание поясничного отдела позвоночника</title>
-      <link>/post/lumbar-degenerative-disc-disease/</link>
+      <link>https://zaborovskii.github.io/post/lumbar-degenerative-disc-disease/</link>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/lumbar-degenerative-disc-disease/</guid>
+      <guid>https://zaborovskii.github.io/post/lumbar-degenerative-disc-disease/</guid>
       <description>
 
 
@@ -2426,9 +2427,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Боль в фасеточных (межпозвонковых) суставах после операции на позвоночнике</title>
-      <link>/post/facet-joint-pain-after-spine-surgery/</link>
+      <link>https://zaborovskii.github.io/post/facet-joint-pain-after-spine-surgery/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/facet-joint-pain-after-spine-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/facet-joint-pain-after-spine-surgery/</guid>
       <description>
 
 
@@ -2478,9 +2479,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Индекс Карновского</title>
-      <link>/post/karnofsky-status/</link>
+      <link>https://zaborovskii.github.io/post/karnofsky-status/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/karnofsky-status/</guid>
+      <guid>https://zaborovskii.github.io/post/karnofsky-status/</guid>
       <description>
 
 
@@ -2513,9 +2514,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
     
     <item>
       <title>Оценка общего состояния больного с использованием шкалы ECOG</title>
-      <link>/post/ecog-scale/</link>
+      <link>https://zaborovskii.github.io/post/ecog-scale/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/ecog-scale/</guid>
+      <guid>https://zaborovskii.github.io/post/ecog-scale/</guid>
       <description>
 
 

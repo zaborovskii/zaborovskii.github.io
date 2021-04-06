@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diagnosis | Никита Заборовский</title>
-    <link>/tags/diagnosis/</link>
-      <atom:link href="/tags/diagnosis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/diagnosis/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/diagnosis/index.xml" rel="self" type="application/rss+xml" />
     <description>diagnosis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>diagnosis</title>
-      <link>/tags/diagnosis/</link>
+      <link>https://zaborovskii.github.io/tags/diagnosis/</link>
     </image>
     
     <item>
       <title>Хирургическое лечение деформации позвоночника у взрослых</title>
-      <link>/talk/spinal-deformity-webinar-19-08-2020/</link>
+      <link>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/spinal-deformity-webinar-19-08-2020/</guid>
+      <guid>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</guid>
       <description>
 
 
@@ -28,9 +28,9 @@
     
     <item>
       <title>Что такое компьютерная томография (КТ) позвоночника?</title>
-      <link>/post/ct/</link>
+      <link>https://zaborovskii.github.io/post/ct/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/ct/</guid>
+      <guid>https://zaborovskii.github.io/post/ct/</guid>
       <description>
 
 
@@ -109,9 +109,9 @@
     
     <item>
       <title>Что такое магнитно-резонансная томография (МРТ) позвоночника?</title>
-      <link>/post/mri/</link>
+      <link>https://zaborovskii.github.io/post/mri/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/mri/</guid>
+      <guid>https://zaborovskii.github.io/post/mri/</guid>
       <description>
 
 
@@ -217,9 +217,9 @@
     
     <item>
       <title>Что такое позитронно-эмиссионная томография (ПЭТ)?</title>
-      <link>/post/pet/</link>
+      <link>https://zaborovskii.github.io/post/pet/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/pet/</guid>
+      <guid>https://zaborovskii.github.io/post/pet/</guid>
       <description>
 
 
@@ -262,9 +262,9 @@
     
     <item>
       <title>Что такое рентгенография позвоночника?</title>
-      <link>/post/x-ray/</link>
+      <link>https://zaborovskii.github.io/post/x-ray/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/x-ray/</guid>
+      <guid>https://zaborovskii.github.io/post/x-ray/</guid>
       <description>
 
 
@@ -337,9 +337,9 @@
     
     <item>
       <title>Признаки опухоли позвоночника</title>
-      <link>/post/could-be-spine-tumor/</link>
+      <link>https://zaborovskii.github.io/post/could-be-spine-tumor/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/could-be-spine-tumor/</guid>
+      <guid>https://zaborovskii.github.io/post/could-be-spine-tumor/</guid>
       <description>
 
 
@@ -397,9 +397,9 @@
     
     <item>
       <title>Заболевания позвоночника</title>
-      <link>/project/conditions/</link>
+      <link>https://zaborovskii.github.io/project/conditions/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/conditions/</guid>
+      <guid>https://zaborovskii.github.io/project/conditions/</guid>
       <description>
 
 
@@ -409,9 +409,9 @@
     
     <item>
       <title>Помогают ли нам модели прогнозирования осложнений?</title>
-      <link>/post/do-complication-prediction-models-help-us/</link>
+      <link>https://zaborovskii.github.io/post/do-complication-prediction-models-help-us/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/do-complication-prediction-models-help-us/</guid>
+      <guid>https://zaborovskii.github.io/post/do-complication-prediction-models-help-us/</guid>
       <description>
 
 
@@ -430,9 +430,9 @@
     
     <item>
       <title>Метастазы в позвоночнике</title>
-      <link>/talk/spinal-metastasis-webinar/</link>
+      <link>https://zaborovskii.github.io/talk/spinal-metastasis-webinar/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/spinal-metastasis-webinar/</guid>
+      <guid>https://zaborovskii.github.io/talk/spinal-metastasis-webinar/</guid>
       <description>
 
 
@@ -444,9 +444,9 @@
     
     <item>
       <title>Множественная миелома позвоночника - выживаемость, осложнения и функциональный результат после хирургического лечения</title>
-      <link>/talk/multiple-myeloma/</link>
+      <link>https://zaborovskii.github.io/talk/multiple-myeloma/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/multiple-myeloma/</guid>
+      <guid>https://zaborovskii.github.io/talk/multiple-myeloma/</guid>
       <description>
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>form | Никита Заборовский</title>
-    <link>/tags/form/</link>
-      <atom:link href="/tags/form/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/form/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/form/index.xml" rel="self" type="application/rss+xml" />
     <description>form</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>form</title>
-      <link>/tags/form/</link>
+      <link>https://zaborovskii.github.io/tags/form/</link>
     </image>
     
     <item>
       <title>Опросники и формы</title>
-      <link>/project/patient-portal-and-forms/</link>
+      <link>https://zaborovskii.github.io/project/patient-portal-and-forms/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/patient-portal-and-forms/</guid>
+      <guid>https://zaborovskii.github.io/project/patient-portal-and-forms/</guid>
       <description>
 
 

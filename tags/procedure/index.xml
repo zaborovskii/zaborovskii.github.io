@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>procedure | Никита Заборовский</title>
-    <link>/tags/procedure/</link>
-      <atom:link href="/tags/procedure/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/procedure/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/procedure/index.xml" rel="self" type="application/rss+xml" />
     <description>procedure</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>procedure</title>
-      <link>/tags/procedure/</link>
+      <link>https://zaborovskii.github.io/tags/procedure/</link>
     </image>
     
     <item>
       <title>Хирургическое лечение деформации позвоночника у взрослых</title>
-      <link>/talk/spinal-deformity-webinar-19-08-2020/</link>
+      <link>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/spinal-deformity-webinar-19-08-2020/</guid>
+      <guid>https://zaborovskii.github.io/talk/spinal-deformity-webinar-19-08-2020/</guid>
       <description>
 
 
@@ -28,9 +28,9 @@
     
     <item>
       <title>Лечение позвоночника</title>
-      <link>/project/procedures/</link>
+      <link>https://zaborovskii.github.io/project/procedures/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/procedures/</guid>
+      <guid>https://zaborovskii.github.io/project/procedures/</guid>
       <description>
 
 
@@ -107,9 +107,9 @@
     
     <item>
       <title>После операции</title>
-      <link>/project/after-procedure/</link>
+      <link>https://zaborovskii.github.io/project/after-procedure/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/after-procedure/</guid>
+      <guid>https://zaborovskii.github.io/project/after-procedure/</guid>
       <description>
 
 
@@ -140,9 +140,9 @@
     
     <item>
       <title>Мета-анализ подтверждает преимущества хирургического вмешательства при метастатической компрессии спинного мозга</title>
-      <link>/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</link>
+      <link>https://zaborovskii.github.io/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</guid>
+      <guid>https://zaborovskii.github.io/post/meta-analysis-confirms-benefits-of-surgery-for-metastatic-spinal-cord-compression/</guid>
       <description>
 
 
@@ -159,9 +159,9 @@
     
     <item>
       <title>Инъекция в межпозвонковые (фасеточные) суставы</title>
-      <link>/post/facet-joint-injection/</link>
+      <link>https://zaborovskii.github.io/post/facet-joint-injection/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/facet-joint-injection/</guid>
+      <guid>https://zaborovskii.github.io/post/facet-joint-injection/</guid>
       <description>
 
 
@@ -185,9 +185,9 @@
     
     <item>
       <title>Метастазы в позвоночнике</title>
-      <link>/talk/spinal-metastasis-webinar/</link>
+      <link>https://zaborovskii.github.io/talk/spinal-metastasis-webinar/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/spinal-metastasis-webinar/</guid>
+      <guid>https://zaborovskii.github.io/talk/spinal-metastasis-webinar/</guid>
       <description>
 
 
@@ -199,9 +199,9 @@
     
     <item>
       <title>Множественная миелома позвоночника - выживаемость, осложнения и функциональный результат после хирургического лечения</title>
-      <link>/talk/multiple-myeloma/</link>
+      <link>https://zaborovskii.github.io/talk/multiple-myeloma/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/multiple-myeloma/</guid>
+      <guid>https://zaborovskii.github.io/talk/multiple-myeloma/</guid>
       <description>
 
 
@@ -213,9 +213,9 @@
     
     <item>
       <title>Осложнения после коррекции деформации позвоночника</title>
-      <link>/talk/complications-in-spinal-deformity-surgery/</link>
+      <link>https://zaborovskii.github.io/talk/complications-in-spinal-deformity-surgery/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/complications-in-spinal-deformity-surgery/</guid>
+      <guid>https://zaborovskii.github.io/talk/complications-in-spinal-deformity-surgery/</guid>
       <description>
 
 

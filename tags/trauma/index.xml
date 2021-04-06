@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>trauma | Никита Заборовский</title>
-    <link>/tags/trauma/</link>
-      <atom:link href="/tags/trauma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/trauma/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/trauma/index.xml" rel="self" type="application/rss+xml" />
     <description>trauma</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>trauma</title>
-      <link>/tags/trauma/</link>
+      <link>https://zaborovskii.github.io/tags/trauma/</link>
     </image>
     
     <item>
       <title>Что такое вертебропластика?</title>
-      <link>/post/vertebroplasty/</link>
+      <link>https://zaborovskii.github.io/post/vertebroplasty/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/vertebroplasty/</guid>
+      <guid>https://zaborovskii.github.io/post/vertebroplasty/</guid>
       <description>
 
 
@@ -81,9 +81,9 @@
     
     <item>
       <title>Спондилодез</title>
-      <link>/post/spinal-fusion/</link>
+      <link>https://zaborovskii.github.io/post/spinal-fusion/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/spinal-fusion/</guid>
+      <guid>https://zaborovskii.github.io/post/spinal-fusion/</guid>
       <description>
 
 
@@ -164,9 +164,9 @@
     
     <item>
       <title>Виды декомпрессивных операций в хирургии позвоночника</title>
-      <link>/post/types-of-decompression-surgery/</link>
+      <link>https://zaborovskii.github.io/post/types-of-decompression-surgery/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/types-of-decompression-surgery/</guid>
+      <guid>https://zaborovskii.github.io/post/types-of-decompression-surgery/</guid>
       <description>
 
 
@@ -217,9 +217,9 @@
     
     <item>
       <title>Оценка мышечной силы</title>
-      <link>/post/muscular-strenght/</link>
+      <link>https://zaborovskii.github.io/post/muscular-strenght/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/muscular-strenght/</guid>
+      <guid>https://zaborovskii.github.io/post/muscular-strenght/</guid>
       <description>
 
 

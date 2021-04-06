@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>survival | Никита Заборовский</title>
-    <link>/tags/survival/</link>
-      <atom:link href="/tags/survival/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/survival/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/survival/index.xml" rel="self" type="application/rss+xml" />
     <description>survival</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>survival</title>
-      <link>/tags/survival/</link>
+      <link>https://zaborovskii.github.io/tags/survival/</link>
     </image>
     
     <item>
       <title>Продолжительность жизни при раке молочной железы</title>
-      <link>/post/breast-cancer-survival/</link>
+      <link>https://zaborovskii.github.io/post/breast-cancer-survival/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/breast-cancer-survival/</guid>
+      <guid>https://zaborovskii.github.io/post/breast-cancer-survival/</guid>
       <description>
 
 
@@ -39,7 +39,8 @@
 &lt;/div&gt;
 &lt;/noscript&gt;
 &lt;!-- /Yandex.Metrika counter --&gt;
-&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.&lt;/p&gt;
+&lt;p&gt;Показатели выживаемости могут дать вам представление о том, какой процент людей с таким же типом и стадией рака все еще жив в течение определенного периода времени (обычно 5 лет) после того, как им был поставлен диагноз. Эти показатели не могут сказать вам, как долго вы будете жить, но они могут помочь вам лучше понять, насколько вероятно то, что ваше лечение будет успешным.
+11&lt;/p&gt;
 &lt;style&gt;
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 &lt;/style&gt;

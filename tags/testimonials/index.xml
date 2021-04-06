@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>testimonials | Никита Заборовский</title>
-    <link>/tags/testimonials/</link>
-      <atom:link href="/tags/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zaborovskii.github.io/tags/testimonials/</link>
+      <atom:link href="https://zaborovskii.github.io/tags/testimonials/index.xml" rel="self" type="application/rss+xml" />
     <description>testimonials</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_2.png</url>
       <title>testimonials</title>
-      <link>/tags/testimonials/</link>
+      <link>https://zaborovskii.github.io/tags/testimonials/</link>
     </image>
     
     <item>
       <title>Отзывы пациентов</title>
-      <link>/project/testimonials/</link>
+      <link>https://zaborovskii.github.io/project/testimonials/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/testimonials/</guid>
+      <guid>https://zaborovskii.github.io/project/testimonials/</guid>
       <description>
 
 
