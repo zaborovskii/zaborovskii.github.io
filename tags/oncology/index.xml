@@ -5,12 +5,167 @@
     <link>https://zaborovskii.github.io/tags/oncology/</link>
       <atom:link href="https://zaborovskii.github.io/tags/oncology/index.xml" rel="self" type="application/rss+xml" />
     <description>oncology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_3.png</url>
       <title>oncology</title>
       <link>https://zaborovskii.github.io/tags/oncology/</link>
     </image>
+    
+    <item>
+      <title>Шкала оценки нестабильности при опухолях позвоночника SINS</title>
+      <link>https://zaborovskii.github.io/post/sins-scale/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zaborovskii.github.io/post/sins-scale/</guid>
+      <description>
+&lt;script src=&#34;https://zaborovskii.github.io/post/sins-scale/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Патологический перелом на фоне опухолевого процесса ведет не только к развитию выраженного болевого синдрома, неврологического дефицита, он так же является маркером, определяющим тактику лечения больного.&lt;/p&gt;
+&lt;p&gt;На стабильность позвоночника в условиях опухолевого процесса влияет расположение очага, выраженность боли, тип поражения, распространение опухоли на структуры позвонка, коллапс тела позвонка и вовлечение мягкотканных структур.&lt;/p&gt;
+&lt;p&gt;Биомеханические и клинические исследования доказали, что в позвоночнике существуют сегменты, на которые приходится большая опорная нагрузка. Верхнешейный (Oc-C2), шейно-грудной (С7-Th2), грудо-поясничный (Th11-L1), пояснично-крестцовый (L5-S1) наиболее уязвимы в контексте развития нестабильности, в следствии их смежности с более ригид-ными отделами. Грудная дуга менее подвержена развитию нестабильности, так как серьезную опорную роль играет реберный каркас. Ригидный отдел – крестец, нестабильность в этом отделе происходит при распространении опухоли на крестцово-подвздошное сочленение.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;region.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Эти принципы отражены в классификации SINS (Spinal Instability Neo-plastic Score) для бальной оценки стабильности позвоночника (Табл. 7). Ин-терпретируется бальная оценка: стабильный позвоночник (0-6 баллов), не-определенная стабильность, возможно надвигающаяся нестабильность (7-12 баллов), нестабильный позвоночник (13-18 баллов)
+Шкалу разработала рабочая группа &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20562730/&#34;&gt;Spine Oncology Study Group под руководством Charles Fisher&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;шкала-sins&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Шкала SINS&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;93%&#34; /&gt;
+&lt;col width=&#34;6%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Параметр&lt;/th&gt;
+&lt;th&gt;Баллы&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Локализация&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Переходный отдел: Oc-C2, C7-Th2, Th11-L1, L5-S1&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Мобильный отдел: C3-C6, L2-L4&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Полуригидный отдел: Th3-Th10&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Ригидный отдел: S2-S5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Боль облегчается в положении лежа и/или боль связана с движением или с нагрузкой на позвоночник&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Да (механическая боль)&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Нет (периодические боли, но не механические)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Безболезненное течение&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Поражение кости&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Литическое&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Смешанное&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Бластическое&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Нарушение оси позвоночника&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Наличие подвывиха, трансляция&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Вновь появившаяся деформация (кифоз/сколиоз)&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Нормальная ось&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Коллапс тела позвонка&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Больше 50%&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Меньше 50%&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Отсутствие коллапса при поражении &amp;gt;50% тела&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Ни одного из перечисленного&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Вовлечение заднебоковых структур позвоночника (суставов, ножек дуг, перелом реберно-позвоночных суставов или их замещение опухолью)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Двустороннее&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Одностороннее&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Ни одного из перечисленного&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Итоговая оценка&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Стабильный позвоночник&lt;/td&gt;
+&lt;td&gt;0-6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Неопределенная стабильность (решает хирург)&lt;/td&gt;
+&lt;td&gt;7-12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Нестабильный позвоночник&lt;/td&gt;
+&lt;td&gt;13-18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Опухоли позвоночника</title>
