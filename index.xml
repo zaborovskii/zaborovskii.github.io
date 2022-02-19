@@ -5,12 +5,75 @@
     <link>https://zaborovskii.github.io/</link>
       <atom:link href="https://zaborovskii.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Никита Заборовский</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_3.png</url>
       <title>Никита Заборовский</title>
       <link>https://zaborovskii.github.io/</link>
     </image>
+    
+    <item>
+      <title>Классификация Tan</title>
+      <link>https://zaborovskii.github.io/post/tan/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zaborovskii.github.io/post/tan/</guid>
+      <description>
+&lt;script src=&#34;https://zaborovskii.github.io/post/tan/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!-- Yandex.Metrika counter --&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, &#34;script&#34;, &#34;https://mc.yandex.ru/metrika/tag.js&#34;, &#34;ym&#34;);
+
+   ym(50002336, &#34;init&#34;, {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;
+&lt;img src=&#34;https://mc.yandex.ru/watch/50002336&#34; style=&#34;position:absolute; left:-9999px;&#34; alt=&#34;&#34; /&gt;
+&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- /Yandex.Metrika counter --&gt;
+&lt;p&gt;Оценка формирования спондилодеза по данным компьютерной томографии позвоночника&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;5%&#34; /&gt;
+&lt;col width=&#34;94%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Степень&lt;/th&gt;
+&lt;th&gt;Характеристика&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;1. Завершенный костный блок&lt;/td&gt;
+&lt;td&gt;Сращение имплантата с замыкательными пластинками и непрерывность трабекулярного рисунка между костным трансплантатом и кортикальной костью&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;2. Частичный костный блок&lt;/td&gt;
+&lt;td&gt;Сращение имплантата с замыкательными пластинками, непрерывность трабекулярного рисунка между костным трансплантатом и кортикальной костью частичная или отсутствует&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;3. Однополюсный псевдоартроз&lt;/td&gt;
+&lt;td&gt;Отсутствие сращения на каудальном и краниальном конце&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;4. Двухполюсный псевдоартроз&lt;/td&gt;
+&lt;td&gt;Отсутствие сращения с двух сторон&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223338/&#34;&gt;Tan GH, Goss BG, Thorpe PJ, Williams RP. CT-based classification of long spinal allograft fusion. Eur Spine J. 2007;16(11):1875-1881. doi:10.1007/s00586-007-0376-0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Шкала оценки нестабильности при опухолях позвоночника SINS</title>
