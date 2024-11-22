@@ -5,12 +5,84 @@
     <link>https://zaborovskii.github.io/</link>
       <atom:link href="https://zaborovskii.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Никита Заборовский</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru-ru</language><lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zaborovskii.github.io/images/icon_hu84bf75cde8ded717b0178e9f2ea68569_70520_512x512_fill_lanczos_center_3.png</url>
       <title>Никита Заборовский</title>
       <link>https://zaborovskii.github.io/</link>
     </image>
+    
+    <item>
+      <title>Классификация эндоскопических операций на позвоночнике</title>
+      <link>https://zaborovskii.github.io/post/spinal-endoscopy-classification/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://zaborovskii.github.io/post/spinal-endoscopy-classification/</guid>
+      <description>
+
+
+&lt;p&gt;Эндоскопические операции на позвоночнике становятся все более популярными благодаря минимально инвазивному подходу, снижению травматизации тканей и быстрому восстановлению пациентов. Однако из-за разнообразия используемых методов и подходов в профессиональном сообществе долгое время не было единой номенклатуры. Это затрудняло коммуникацию между хирургами, а также стандартизацию процедур и их преподавание.&lt;/p&gt;
+&lt;p&gt;Для устранения этих проблем была предложена классификация, основанная на использовании эндоскопа с рабочим каналом, подходах к позвоночнику, сегменте позвоночника и типе выполняемой процедуры.&lt;/p&gt;
+&lt;div id=&#34;классификация-эндоскопических-операций&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Классификация эндоскопических операций&lt;/h2&gt;
+&lt;div id=&#34;шейный-отдел-позвоночника&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;1. &lt;strong&gt;Шейный отдел позвоночника&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Передняя эндоскопическая дискэктомия шейного отдела (AECD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Anterior Endoscopic Cervical Discectomy (AECD)&lt;/em&gt;&lt;br /&gt;
+Удаление грыжи межпозвонкового диска через передний доступ.&lt;br /&gt;
+Пример: грыжи дисков, вызывающие компрессию нервных корешков.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Задняя эндоскопическая фораминотомия или дискэктомия (PECF/PECD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Posterior Endoscopic Cervical Foraminotomy/Discectomy (PECF/PECD)&lt;/em&gt;&lt;br /&gt;
+Увеличение межпозвонкового отверстия или удаление диска через задний доступ.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Эндоскопическая унилатеральная ламинэктомия для билиатеральной декомпрессии (CE-ULBD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Cervical Endoscopic Unilateral Laminotomy for Bilateral Decompression (CE-ULBD)&lt;/em&gt;&lt;br /&gt;
+Односторонний доступ для двустороннего расширения позвоночного канала.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;грудной-отдел-позвоночника&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2. &lt;strong&gt;Грудной отдел позвоночника&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Трансфораминальная эндоскопическая дискэктомия (TETD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Transforaminal Endoscopic Thoracic Discectomy (TETD)&lt;/em&gt;&lt;br /&gt;
+Удаление грыжи межпозвонкового диска через трансфораминальный доступ.&lt;br /&gt;
+Пример: лечение грыж грудного отдела, смещенных от средней линии.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;поясничный-отдел-позвоночника&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;3. &lt;strong&gt;Поясничный отдел позвоночника&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Трансфораминальная эндоскопическая дискэктомия (TELD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Transforaminal Endoscopic Lumbar Discectomy (TELD)&lt;/em&gt;&lt;br /&gt;
+Удаление грыжи диска через трансфораминальный доступ, используя анатомическое окно “треугольник Камбина”.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Трансфораминальная эндоскопическая фораминотомия (TELF)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Transforaminal Endoscopic Lumbar Foraminotomy (TELF)&lt;/em&gt;&lt;br /&gt;
+Декомпрессия нервного корешка в области межпозвонкового отверстия.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Эндоскопическая интерламинарная дискэктомия (ILED)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Interlaminar Endoscopic Discectomy&lt;/em&gt;&lt;br /&gt;
+Удаление грыжи диска через интерламинарный доступ, подходящий для центральных грыж.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Интерламинарная эндоскопическая декомпрессия бокового кармана позвоночного канала (IE-LRD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Interlaminar Endoscopic Lateral Recess Decompression (IE-LRD)&lt;/em&gt;&lt;br /&gt;
+Расширение бокового кармана позвоночного канала через интерламинарный доступ.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Эндоскопическая унилатеральная ламинэктомия для билиатеральной декомпрессии (LE-ULBD)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Lumbar Endoscopic Unilateral Laminotomy for Bilateral Decompression (LE-ULBD)&lt;/em&gt;&lt;br /&gt;
+Минимально инвазивное устранение стеноза позвоночного канала.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;пояснение&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Пояснение&lt;/h2&gt;
+&lt;p&gt;Предложенная классификация учитывает три ключевых аспекта:&lt;br /&gt;
+1. &lt;strong&gt;Доступ&lt;/strong&gt;: передний, задний, интерламинарный или трансфораминальный.&lt;br /&gt;
+2. &lt;strong&gt;Сегмент позвоночника&lt;/strong&gt;: шейный, грудной или поясничный.&lt;br /&gt;
+3. &lt;strong&gt;Процедура&lt;/strong&gt;: дискэктомия, фораминотомия, декомпрессия бокового кармана позвоночного канала или ламинэктомия.&lt;/p&gt;
+&lt;p&gt;Единая номенклатура позволяет стандартизировать подходы, упростить коммуникацию между специалистами и обеспечить преемственность в обучении. Она также помогает в разработке новых методов и их внедрении в клиническую практику.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/2192568219887364&#34;&gt;AOSpine Consensus Paper on Nomenclature for Working-Channel Endoscopic Spinal Procedures&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>3D-печатные PEEK-имплантаты</title>
